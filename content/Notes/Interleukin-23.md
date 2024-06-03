@@ -1,0 +1,3 @@
+- which are responsible for natural killer cell activation and CD4+ T-cell differentiation and activation
+- guselkumab, tildrakizumab, risankizumab, and ustekinumab (which also inhibits IL-12)
+	- Used for CD, UC, Psoriasis

@@ -1,0 +1,6 @@
+- [[Brodie abscess]] 
+	- [[Staphylococcus aureus]] 
+	- [[Staphylococcus epidermidis]] 
+	- Epiphysis or apophysis: [[Kingella kingae]] 
+	- [[Gledhill classification]] 
+- Only antibiotics, Initially IV for 48 h and later Oral for 6 weeks

@@ -1,0 +1,2 @@
+- Used in ICU settings
+- Score >= 8 indicates severe pancreatitis

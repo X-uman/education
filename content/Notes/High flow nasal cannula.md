@@ -1,0 +1,8 @@
+- Oxygen source with Flow rate > 60l/min
+- Humidifier
+- Pressure relief valve
+- Gives Fixed FiO2 
+- Oxygen reservoir in Airways 
+- Washes out dead space: Avoids rebreathing of CO2
+- Generates [[PEEP]] of 3-5 cm H2O
+- Prevents requirement of [[Endotracheal intubation]]

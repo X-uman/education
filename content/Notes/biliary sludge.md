@@ -1,0 +1,1 @@
+Biliary sludge may manifest with [[biliary colic]] and is a risk factor for [[cholangitis]] and biliary [[Notes/Pancreatitis]]. Biliary sludge should be considered in patients with classic symptoms of biliary colic if [[cholelithiasis]] cannot be visualized on ultrasound. 

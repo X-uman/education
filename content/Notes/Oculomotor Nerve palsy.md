@@ -1,0 +1,3 @@
+- Outer fibers: Pupillomotor
+- Inner fiber: [[Diabetic neuropathy]]
+- 

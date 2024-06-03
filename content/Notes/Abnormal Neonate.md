@@ -1,0 +1,55 @@
+
+#todo  
+- [ ] Skin
+    - [ ] [[Neonatal skin lesions]]
+	    - [ ] [[Erythema toxicum neonatorum]]
+	    - [ ] [[Congenital dermal melanocytosis (Mongolian spot)]]
+	    - [ ] Congenital melanocytic nevus
+	    - [ ] Infantile hemangioma (strawberry hemangioma)
+	    - [ ] Milia neonatorum
+	    - [ ] [[LEOPARD Syndrome]]
+	    - [ ] Blueberry muffin syndrome 
+	    - [ ] [[Neurocutaneous syndromes]] 
+- [ ] Head examination
+    - [ ] Head molding
+    - [ ] [[Caput succedaneum]]
+    - [ ] [[Cephalohematoma]]
+    - [ ] [[Sub-galeal hemorrhage]]
+    - [ ] Bulging fontanelles as a sign of increased [[intracranial pressure]]
+    - [ ] [[Facial nerve palsy]] due to birth trauma
+- [ ] Eyes
+    - [ ] [[Retinopathy of prematurity]]
+    - [ ] [[Neonatal conjunctivitis]]
+    - [ ] [[Leukocoria]] (may indicate retinoblastoma)
+- [ ] Ear, nose, and mouth
+    - [ ] Cleft lip or cleft palate
+    - [ ] Choanal atresia
+- [ ] Neck and clavicles
+    - [ ] Birth-related clavicle fracture
+    - [ ] [[Infant torticollis]]
+- [ ] Circulatory system
+    - [ ] Neonatal [[Hyaline membrane disease]]
+    - [ ] Cyanotic and acyanotic congenital heart defects
+- [ ] Gastrointestinal tract
+    - [ ] [[Hirschsprung disease]]
+    - [ ] [[Necrotizing enterocolitis]]
+    - [ ] Vitamin K deficiency bleeding of the newborn
+- [ ] Urogenital system
+    - [ ] Congenital adrenal hyperplasia
+    - [ ] Neonatal acute kidney injury
+- [ ] Trunk, spine, and extremities
+    - [ ] Infantile hypotonia
+    - [ ] Neural tube defects
+    - [ ] Foot deformities (e.g., club foot, metatarsus adductus)
+    - [ ] Hip dysplasia
+    - [ ] [[Brachial plexus injuries]]
+- [ ] Endocrine organs
+    - [ ] Neonatal hypocalcemia
+    - [ ] Congenital hypothyroidism
+    - [ ] Congenital hyperinsulinism
+    - [ ] Neonatal diabetes
+    - [ ] Congenital hypopituitarism
+- [ ] Hematological system
+    - [ ] Physiologic anemia of infancy
+    - [ ] Neonatal polycythemia
+

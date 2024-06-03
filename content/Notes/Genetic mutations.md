@@ -1,0 +1,7 @@
+- [[point mutation]]
+- [[Deletion]]
+- Splice site mutation
+- Insertion
+- Substitution
+- [[Trinucleotide repeat expansion]] 
+- [[Epigenetic mutation]] 

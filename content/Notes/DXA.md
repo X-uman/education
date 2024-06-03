@@ -1,0 +1,4 @@
+- Screening method
+- Measures [[Bone Mineral density]] in [[Lumbar spine]] and [[Femoral Neck]] 
+- DXA can also be performed on the distal forearm in patients with [[hyperparathyroidism]] (as the distal forearm is disproportionately affected), those who exceed machine weight limits, and patients in whom spine and hip measurements cannot be obtained
+- Can be used for Vertebral fracture assessment 

@@ -1,0 +1,3 @@
+- Increased levels of 17-hydroxyprogesterone, the physiological substrate for 21β-hydroxylase, confirm the diagnosis of 21β-hydroxylase enzyme deficiency. 
+- [[Hypoaldosteronism]]  and [[hypocortisolism]] 
+- lifelong glucocorticoid and [[fludrocortisone]] replacement therapy. 

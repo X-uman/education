@@ -1,0 +1,6 @@
+- Absence of other features associated with [[migraine]]
+- Band like pain, bilaterally radiating towards occipital region
+- Neck rigidity 
+- Either phonophobia or photophobia but not both 
+- [[NSAIDs]] 
+- [[Amitriptyline]] for chronic TTH

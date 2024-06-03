@@ -1,0 +1,2 @@
+non-hormonal, non-steroidal oral contraceptive taken once a week, and it was later introduced for the treatment of dysfunctional uterine bleeding. 
+Similar to other selective estrogen receptor modulators (SERMs), ormeloxifene has estrogenic activity in the vagina, bone, cardiovascular, and central nervous system tissues, and anti-estrogenic activity in the uterus and breast

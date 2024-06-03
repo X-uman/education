@@ -1,0 +1,2 @@
+- Exogenous: [[bacterial toxins]]
+- Endogenous: [[TNF-a]], [[Interleukin-1]], [[Interleukin-6]], [[Ciliary neurotrophic factor]] 

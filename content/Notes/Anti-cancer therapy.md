@@ -1,0 +1,1 @@
+- [[5-Flurouracil]] for [[Gastric Carcinoma]]: 6 cycles

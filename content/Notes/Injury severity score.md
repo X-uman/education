@@ -1,0 +1,6 @@
+- 3 injured regions from above 1-9
+- [[qSOFA]]
+- R: RR >22
+- C: Confused
+- BP <100
+- [[GCS score]] 

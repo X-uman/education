@@ -1,0 +1,5 @@
+- Located in superior temporal gyrus of [[temporal lobe]], which also includes Meyer loop of [[Optic radiation]] 
+- Inferior division of Left MCA
+- Stroke of Left MCA leads to:
+	- Fluent [[Aphasia]]
+	- Visual field defect: Right upper homonymous quadrant-anopsia

@@ -1,0 +1,1 @@
+- severe bowel inflammation that typically causes > 10 stools per day, lower gastrointestinal bleeding, abdominal pain, and abdominal distention

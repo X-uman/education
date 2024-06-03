@@ -1,0 +1,5 @@
+- Mutated Factor V, not susceptible to [[Protein C]]
+- Normally, activated protein C (APC) inactivates factor V in the [[coagulation cascade]] → decreases the activation of [[thrombin]].
+- A [[DNA]] point [[Genetic mutations]] substitutes **guanine** for **adenine** → corresponding [[mRNA]] [[codon]] forms **glutamine** in place of **arginine** on position 506 (Arg506Gln mutation) near the polypeptide cleavage site of factor V
+- In such patients, Gln506-Va is resistant to cleavage by APC → factor V remains active → activates prothrombin → increases [[Thrombosis]] 
+- Risk of thromboembolism is several times higher in patients with homozygous mutations than in those with heterozygous mutations.

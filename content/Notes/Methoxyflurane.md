@@ -1,0 +1,5 @@
+- [[Nephrotoxic agents]]: Produces most Fluoride causes High output renal failure
+- Produces oxalate stones
+- Raises BP
+- Very potent
+- Used as Patient-controlled short term pain relief

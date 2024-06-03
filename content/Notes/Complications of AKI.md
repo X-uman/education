@@ -1,0 +1,8 @@
+- [[Uremia]]: >100 mg/dl causes Mental status changes and bleeding complications
+- [[Hyperkalemia]]: Marked in Rhabdomyolysis, Hemolysis and Tumor lysis. Symptom is muscle weakness. It may cause fatal arrythmias
+- Acidosis: Elevation in the anion gap
+- [[Hyperphosphatemia]] and [[Hypocalcemia]]: High phosphate release in high catabolic state or in rhabdomyolysis, hemolysis and Tumor lysis, causes Deposition of Calcium Phosphate and Hypocalcemia. It also can arise from derangement of Vit D-PTH-FGF-23 Axis. Hypocalcemia should be corrected for the degree of [[hypoalbuminemia]], if present, or ionized calcium levels should be followed. Mild asymptomatic does not require treatment.
+- Bleeding: [[Anemia]] and bleeding, which are exacerbated by Sepsis, Liver disease, [[Disseminated intravascular coagulation]]. They are due to decreased EPO and platelet dysfunction.
+- Infections: common precipitants and also dreaded complications
+- Cardiac: Arrythmia, Pericarditis, pericardial effusion. Volume overload and uremia can lead to cardiac injury and impaired cardiac function.
+- Malnutrition: Due to hypercatabolic nature of AKI

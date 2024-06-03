@@ -1,0 +1,2 @@
+- AKI often leads to [[hyperkalemia]], [[hyperphosphatemia]], and [[hypocalcemia]]. 
+- Marked hyperphosphatemia with accompanying hypocalcemia, however, suggests rhabdomyolysis or the tumor lysis syndrome.

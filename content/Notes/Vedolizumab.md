@@ -1,0 +1,1 @@
+An immune-modulating monoclonal antibody that binds to the α4β7 integrin, blocking its interaction with mucosal addressin cell adhesion molecule-1 (MAdCAM-1), which results in inhibition of T-cell migration across the endothelium. Used to treat Crohn disease and ulcerative colitis.

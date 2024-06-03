@@ -1,0 +1,11 @@
+- [[Venturi valve colors.png]]: Narrower is the jet adaptor, more the the air dilution and FiO2 
+- FiO2 of 40-60%
+- Takes moisture from atmosphere: no dryness of mucous membranes 
+- [[Venturi mask schematics.png]] 
+- Flow rate of 4-15 l/min 
+- Entrained Air flow = O2 Flow x (1-FiO2) / (FiO2-0.2)
+- FiO2 can be increased by occluding the Entrainment ports
+- Delivers most precise FiO2
+- Used when Inappropriate High FiO2 needs to be avoided
+- Given in [[Asthma]] patients 
+- Produces [[respiratory depression]] in [[COPD]] patient with high FiO2 of 50%

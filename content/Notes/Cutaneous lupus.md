@@ -1,0 +1,24 @@
+| Cutaneous SLE                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| (1) Malar rash                                                                                                                                                                                            |
+| (2) Discoid LE (DLE): Scarring alopecia, Carpet tacks sign, occurs over sun-exposed signs, hypopigmented lesion with hyperpigmented margins, scaly in natures, treatment done with [[Hydroxychloroquine]] |
+| (a) Localized DLE                                                                                                                                                                                         |
+| (b) Generalized DLE                                                                                                                                                                                       |
+| (3) Photosensitivity                                                                                                                                                                                      |
+| (4) Mucosal DLE                                                                                                                                                                                           |
+| (a) Oral DLE                                                                                                                                                                                              |
+| (b) Conjunctival DLE                                                                                                                                                                                      |
+| (c) Nasal DLE                                                                                                                                                                                             |
+| (d) Genital DLE                                                                                                                                                                                           |
+| (5) Subacute cutaneous lupus erythematosus                                                                                                                                                                |
+| (6) Alopecia                                                                                                                                                                                              |
+| (7) Lupus panniculitis/lupus profundus                                                                                                                                                                    |
+| (8) Lichenoid DLE (LE/lichen planus overlap)                                                                                                                                                              |
+| (9) Small vessel cutaneous leukocytoclastic vasculitis secondary to LE                                                                                                                                    |
+| (a) Dependent palpable purpura                                                                                                                                                                            |
+| (b) Urticarial vasculitis                                                                                                                                                                                 |
+| (10) Secondary atrophic blanche                                                                                                                                                                           |
+| (11) Periungual telangiectasias                                                                                                                                                                           |
+| (12) Livedo reticularis                                                                                                                                                                                   |
+| (13) Raynaud's phenomenon                                                                                                                                                                                 |
+| (14) Bullous lesions (BSLE)                                                                                                                                                                               |

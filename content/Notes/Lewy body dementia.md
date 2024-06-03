@@ -1,0 +1,1 @@
+- More rapidly than AD, earlier appearance of Visual hallucinations and Parkinsonian features

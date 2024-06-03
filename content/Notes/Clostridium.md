@@ -1,0 +1,3 @@
+- [[RBC destruction]]
+- Neuronal destruction: [[Toxic Megacolon]] 
+- 

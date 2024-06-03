@@ -1,0 +1,4 @@
+- Planning and programming of movements
+	- Coordinate complex movements
+	- Sequence and precision of movements
+	- timing of movements

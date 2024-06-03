@@ -1,0 +1,7 @@
+- Perihepatitis: Inflammation of Glisson capsule
+- Occurs almost exclusively in women
+- Spread of inflammation from [[Pelvic Inflammatory Diseases (PIDs)]] 
+- Patients classically presents with right upper quadrant abdominal pain. 
+- Treatment involves antibiotics, pain medication, and, in complicated cases, surgery. 
+-  Characterized by violin-string-like adhesions extending from the peritoneum to the liver 
+- RUQ pain may mimic [[Cholecystitis]] or [[Pyelonephritis]] 

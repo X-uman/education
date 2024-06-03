@@ -1,0 +1,8 @@
+- Gitelman's syndrome is due to a defect in the thiazide-sensitive Na+ Cl- transporter in the distal convoluted tubule.
+- Analogues to [[thiazides]] overdose
+- Features
+	- normotension
+	- hypokalemia
+	- [[hypocalciuria]]: [[hypercalcemia]] 
+	- hypomagnesaemia
+	- metabolic alkalosis

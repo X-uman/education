@@ -1,0 +1,6 @@
+- [[Systemic sclerosis]]
+- [[Rheumatoid Arthritis]] 
+- [[Polymyositis]]/[[Dermatomyositis & Polymyositis]]
+	- [[anti-synthetase syndrome]]
+- [[Sjögren's Syndrome]]
+- [[SLE]]

@@ -1,0 +1,3 @@
+- [[Fever]] 
+- Blocks [[Interleukin-1]] activity
+- [[canakinumab]]

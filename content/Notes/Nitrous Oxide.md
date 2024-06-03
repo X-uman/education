@@ -1,0 +1,17 @@
+- Low blood solubility: 
+	- Quick recovery from effects
+	- Fills up empty space, so 
+	- Can expand [[Pneumothorax]], [[Obstructed hernia]], bowel obstruction, bulla, middle ear graft pushed out  
+	- [[Second Gas effect]] 
+- Excellent analgesia: aka Laughing gas 
+- No muscle relaxant property 
+- Disadvantages
+	- Poor muscle relaxant
+	- Not to be used in [[Pulmonary Hypertension]] 
+	- causes Myocardial depression
+	  - Long term exposure: [[Vitamin B12]] deficiency
+	  - Teratogenic effects
+- Mechanism: [[NMDA]]-receptor Antagonist in Brain
+- [[Incomplete Anesthetic]]: [[Minimum alveolar concentration]] should be >100% to produce complete anesthesia, which is not possible, so used with other inhalational anesthetics 
+- Used with Oxygen for Dental and [[Labor Analgesia]]
+- DOC is [[Malignant Hyperthermia]] 

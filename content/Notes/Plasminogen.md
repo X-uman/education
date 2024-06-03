@@ -1,0 +1,3 @@
+- Ryplazim: Human plasminogen used to treat [[Hypoplasminogemia]]
+-  deficiency: Formation of inflamed, thick, wood-like growths (ligneous pseudomembranes) on mucous membranes (especially the conjunctiva) that appear white, yellow, or red 
+- Compare [[Bitot spot]] 

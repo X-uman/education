@@ -1,0 +1,2 @@
+- autosomal recessive defect affecting alpha-oxidation in peroxisomes → ↓ conversion of phytanic acid (a branched-chain fatty acid that can only be metabolized by alpha-oxidation in the peroxisome) to pristanic acid → accumulation of phytanic acid
+- Increased levels in [[Refsum disease]]

@@ -1,0 +1,1 @@
+May lead to [[chronic osteomyelitis]] 

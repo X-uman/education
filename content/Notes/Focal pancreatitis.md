@@ -1,0 +1,1 @@
+E.g., focal autoimmune pancreatitis or groove pancreatitis (occurring between the duodenum and the head of the pancreas) 

@@ -1,0 +1,22 @@
+ - Wiskott-Aldrich syndrome (WAS) is an x-linked immunodeficiency that causes T-cell dysfunction. 
+ - WASP-encoding gene mutation
+ - WAS Protein is involved in [[Cytoskeleton]] dependent responses including cell migration and signal transduction
+ - WAS can manifest with a prolonged bleeding time, but a low platelet count would also be expected.
+ - [[Antigen presentation]]
+	 - [[atopy]]
+	 - [[Thrombotic thrombocytopenia purpura]]
+	 - [[opportunistic infection]], Autoimmune disease and [[Neoplasms]] 
+
+- Combined humoral and cellular immunodeficiency
+ - Onset since birth
+ - WAS Triad
+	 - Thrombocytopenia: Micro thrombocytes
+	 - [[Eczema]] due to atopy
+	 - Recurrent bacterial infections
+
+ - Reduced IgM levels: [[IV Immunoglobulins]] therapy
+ - Normal IgG levels
+ - IgA and IgE are elevated
+ - Prophylactic [[Antibiotics]]: for infections
+ - [[Stem cell transplantation]]: curative
+- [[Notes/Thrombocytopenia]] with small [[platelets]] 

@@ -1,0 +1,2 @@
+- Reflex tachycardia
+- Hypotension

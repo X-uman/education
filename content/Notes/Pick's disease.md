@@ -1,0 +1,3 @@
+- Frontotemporal dementia
+- [[Hydrocephalus ex vacuo]] 
+- diagnosed at 40s and early 60s, memory loss in addition to its more characteristic effects on behavior and language, less common Hallucinations and delusions

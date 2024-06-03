@@ -1,0 +1,4 @@
+- [[Streptococcus pneumoniae]]
+- [[Hemophilus influenzae]]
+- [[Staphylococcus aureus]]
+- [[Moraxella catarrhalis]] 

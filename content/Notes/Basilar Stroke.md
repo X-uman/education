@@ -1,0 +1,1 @@
+- Bi-pyramidal Involvement: Both sides affected may be there

@@ -1,0 +1,1 @@
+[[Tyramine]] containing food with [[MAO]] inhibitors 

@@ -1,0 +1,3 @@
+- **Kerley A** lines are linear opacities extending from the periphery to the hila caused by distention of anastomotic channels between peripheral and central lymphatics. 
+- **Kerley B** lines are small, horizontal, peripheral straight lines demonstrated at the lung bases that represent thickened interlobular septa on CXR. They represent edema of the interlobular septa and though not specific, they frequently imply left ventricular failure.
+- **Kerley C** lines are reticular opacities at the lung base, representing Kerley’s B lines end on (‘_en face’)_.

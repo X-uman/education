@@ -1,0 +1,6 @@
+- Undergoes Hoffman degradation
+	- Useful in Liver, renal failure, Neonates, [[neuromuscular diseases]]
+	- Useful when [[Reversal of Muscle relaxants]] is contraindicated 
+- Releases [[Histamine]], 
+- each molecule produces 2 molecules of [[Laudanosine]] 
+- in Renal insufficiency causes symptoms

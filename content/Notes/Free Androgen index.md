@@ -1,0 +1,1 @@
+The ratio of total testosterone to sex hormone-binding globulin (SHBG). It is used to estimate the amount of physiologically active testosterone.

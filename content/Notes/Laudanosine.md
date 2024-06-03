@@ -1,0 +1,5 @@
+ - Seizures
+- Flushing
+- Heparin release causing thinning of blood
+- Low BP
+- Low Heart rate

@@ -1,0 +1,4 @@
+- avascular necrosis (osteonecrosis) of a metatarsal bone. 
+- It typically develops in the second metatarsal head, but may involve any metatarsal bone
+- Sclerosis and flattening of articular surface
+- [[Osteophytes]]

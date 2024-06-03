@@ -1,0 +1,3 @@
+- Can provoke [[Seizures]] 
+- Contraindicated in [[Epilepsy]]
+- Can sensitize myocardium to epinephrine 

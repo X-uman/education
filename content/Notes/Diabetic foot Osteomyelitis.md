@@ -1,0 +1,14 @@
+- Associated with [[Neuropathic ulcers]]
+- Suspect OM if
+	- Signs of soft tissue infection
+	- Ulcer size
+	- Exposed bone
+	- positive Probe-to-bone test
+	- Chronic ulcer
+	- Treatment resistant ulcer
+	- Ulcer over bony prominence
+	- Markedly increased [[Inflammatory markers]]
+- Obtain MRI
+- Optimize Glycemic control
+- Antibiotics
+- Surgery

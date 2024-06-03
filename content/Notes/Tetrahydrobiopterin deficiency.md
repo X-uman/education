@@ -1,0 +1,4 @@
+- A molecule used as a cofactor for reactions catalyzed by phenylalanine hydroxylase (PAH), tyrosine hydroxylase (TH), and tryptophan hydroxylase. 
+- Deficiency can result from impaired synthesis or regeneration and can manifest with progressive neurological deterioration due to impaired neurotransmitter synthesis.
+- Untreated patients typically die before reaching one year of age.
+- Any newborn infant with elevated phenylalanine concentrations should be tested for BH4 deficiency by measuring DHPR activity in dried blood spots and biopterin/neopterin concentrations in dried urine.

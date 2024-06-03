@@ -1,0 +1,13 @@
+ - **Definition**: inherited genetic disorder characterized by a defect in the renal and intestinal transport of neutral amino acids (e.g., [[tryptophan]]) 
+- **Epidemiology**: incidence is 1:30,000 
+- **Etiology**: mutation in the SLC6A19 gene
+- **Inheritance**: [[autosomal recessive]]
+- **Pathophysiology**: impaired Na+-dependent neutral amino acid transporter on enterocytes and proximal renal tubular cells → decreased renal and intestinal absorption of [[tryptophan]] → inability to synthesize [[Vitamin B3 (Niacin)]] 
+- **Clinical features**: symptoms of [[Vitamin B3 (Niacin)]] deficiency
+	- [[Pellagra]]: dermatitis, glossitis, diarrhea, dementia
+    - Decreased [[Serotonin]]: [[Cerebellar ataxia]] 
+- **Diagnostics**: ↑ neutral amino acids in urine (neutral aminoaciduria)
+- **Treatment**
+    - High-protein diet 
+	- Niacin supplementation
+![[hartnup-for-site-.jpg]]

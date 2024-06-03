@@ -1,0 +1,4 @@
+- [[Fungal infections]]
+- [[Diabetic ulcers]] 
+- [[cellulitis]] 
+- [[Diabetic foot Osteomyelitis]] 

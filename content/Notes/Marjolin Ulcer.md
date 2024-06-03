@@ -1,0 +1,2 @@
+- Erythematous, purulent, ulcerating tumor with multiple sites of petechial bleeding 
+- Complication of long-standing osteomyelitis. Typically develops > 25 years after the episode of osteomyelitis.

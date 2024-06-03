@@ -1,0 +1,11 @@
+- Reduces [[Pulmonary Hypertension]]
+- Reduces [[R-L Shunt]]
+-  Inhaled nitric oxide (NO) is the mainstay treatment for PPHN because of its ability to potently vasodilate the pulmonary vasculature (reducing V/Q mismatch) without decreasing systemic vascular resistance. 
+- NO induces smooth muscle relaxation (and subsequent vasodilation) by activating guanylyl cyclase, which increases cGMP synthesis. 
+- A side effect of inhaled NO is the oxidation of ferrous iron (Fe2+) to ferric iron (Fe3+) at high levels, resulting in the formation of methemoglobin. 
+- Because Fe3+ has a reduced affinity for oxygen binding, methemoglobin is a poor oxygen transporter. 
+- Therefore, [[methemoglobinemia]] results in poor tissue oxygenation and causes clinical signs of [[cyanosis]]. 
+- Other side effects of inhaled NO in neonates include [[platelet dysfunction]], [[pulmonary edema]], and the formation of peroxy nitrites.
+
+- [[Nitric Oxide donors]]
+- Nitric Oxide increasers: [[PDE-5 Inhibitors]] 

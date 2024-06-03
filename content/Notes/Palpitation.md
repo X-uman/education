@@ -1,0 +1,10 @@
+ - [[Supraventricular tachyarrythmia]]
+	  - Being able to count is less likely
+  - Urination due to [[Atrial Natriuretic Peptde]] release
+  - **Physiological**
+	  - Running
+	  - Pregnancy
+	  - Anxiety
+- **Cardiac origin**: Valvular and Heart
+	- Valvular: [[Mitral Stenosis]], [[Aortic Stenosis]] and Regurgitation
+	- Cardiac: [[myocarditis]], [[cardiomyopathy]], [[Ischemic Heart disease]], 

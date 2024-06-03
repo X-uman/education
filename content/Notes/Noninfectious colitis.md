@@ -1,0 +1,3 @@
+- [[Notes/Ischemic Colitis|Ischemic Colitis]]
+- Radiation
+- Drug induced 

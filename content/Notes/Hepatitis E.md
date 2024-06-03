@@ -1,0 +1,3 @@
+- Transmitted by water contamination 
+- Recovery complete but can be serious in Pregnancy
+- 

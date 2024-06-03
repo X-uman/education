@@ -1,0 +1,5 @@
+- [[Smoking]]
+- [[hypercalcemia]]: [[PTrP]]
+- [[Keratin Pearls]]
+- [[Desmosomes]] 
+- Central location 

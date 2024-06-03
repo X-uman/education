@@ -1,0 +1,6 @@
+- Amylase increases within 6 hours of disease onset and remains elevated for 3–5 days. 
+- Increased amylase can also occur in, for example, [[parotitis]], [[ectopic pregnancy]], renal disease, or [[bowel obstruction]], [[Appendicitis]] 
+- and it may be falsely low in exocrine pancreatic insufficiency. 
+- Levels must be interpreted within the clinical context. 
+- Not very sensitive 
+- Late presentation: > 3 days of attacks, becomes normal, so check Urinary amylase 

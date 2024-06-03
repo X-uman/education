@@ -1,0 +1,2 @@
+The Linx is a tiny ring of magnetic titanium beads strung together. The surgeon wraps the Linx around the lower esophageal sphincter during the procedure to compress and strengthen the area.
+![[Pasted image 20240401171551.png]]

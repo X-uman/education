@@ -1,0 +1,29 @@
+- Inspection
+	- Anatomical location
+	- Number
+		- [[neurofibromatosis]]
+		- Multiple lipomatosis
+	- Shape: Regular/irregular
+	- Size: 2 axes and depth(by palpation)
+	- Surface: Color, contour, overlying skin(normal, inflamed or ulcerated), scar, edematous skin with peau d'orange
+	- [[Pulsatile mass]] 
+	- Site related
+		- Cough impulse
+		- [[Space Occupying Lesion]]
+		- Movement on deglutition
+		- 
+- Palpation
+	- Temperature (vascularized)
+	- Tenderness 
+		- Inflammation
+		- Neurofibromatosis 
+	- Borders
+	- Consistency: 
+		- Hard: Malignant
+		- Firm
+		- Rubbery
+		- soft
+	- Surface
+	- Tenderness: [[Inflammation]]
+	- Temperature: [[Inflammation]] 
+	- [[Fluctuation]]: Fluids: [[Cyst]], [[Abscess]], [[lipoma]]

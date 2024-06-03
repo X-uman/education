@@ -1,0 +1,2 @@
+- Germ cells appear at 3rd week
+- Follicles appear at 24th weeks

@@ -1,0 +1,5 @@
+- Nil per oral
+- Intravenous fluids
+- Electrolyte corrections
+- [[NG tube]]
+- Antibiotic prophylaxis 

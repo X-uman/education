@@ -1,0 +1,2 @@
+- No onset of Labor within 24 h of ROM i.e. Prolonged PROM
+- High risk of [[chorioamnionitis]] 

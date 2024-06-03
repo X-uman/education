@@ -1,0 +1,2 @@
+- chondromalacia
+- [[thromboelastography]] shows decreased [[thrombosis]] and enhanced [[fibrinolysis]], maybe beneficial in [[Thromboprophylaxis]] in patients with [[Epidural anesthesia]] 

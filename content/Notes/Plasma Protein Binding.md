@@ -1,0 +1,1 @@
+- Higher the binding, longer is the duration of action

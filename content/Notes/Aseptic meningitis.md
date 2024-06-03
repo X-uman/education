@@ -1,0 +1,9 @@
+- Non-pyogenic Cellular Response (response to organisms other than pyogenic bacteria )
+- Commonest Viral Causes–Enteroviruses, HSV
+- More the bacteria, less the glucose concentration in the CSF
+- Non-infectious causes
+	- [[SLE]]
+	- [[Head injuries]] 
+	- Medicines: NSAIDS, Antibiotics
+	- Malignancy 
+- Chronic course 

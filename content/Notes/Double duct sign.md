@@ -1,0 +1,2 @@
+- the combined dilatation of the common bile duct and pancreatic duct, often caused by cancer of the pancreas
+- can result from both malignant and benign conditions

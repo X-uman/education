@@ -1,0 +1,10 @@
+- At low concentrations allopurinol acts as a competitive inhibitor of xanthine oxidase and at higher concentrations as a non-competitive inhibitor. 
+- However, most of its activity is due to the metabolite oxypurinol which is a non-competitive inhibitor of xanthine oxidase.
+- #cautions with Thiazides, Penicillin allergy
+- ADRs
+	- [[Granulomatous hepatitis]]
+	- [[TEN/SJS]] (Contraindicated in HLA-B*5801 allele which is in Black & south asians, check alleles before initiation)
+- Needs dose adjustment in CKD
+- Purine analogs (e.g., [[azathioprine]], [[6-mercaptopurine]]) combined with XOIs can cause bone marrow toxicity 
+- [[Probenecid]] and [[thiazides]] decrease the efficacy of allopurinol 
+- [[Purine metabolism]] 

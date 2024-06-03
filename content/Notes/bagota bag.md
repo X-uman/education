@@ -1,0 +1,6 @@
+- Used in [[Abdominal compartment syndrome]]
+- Decompressive laparotomy
+- Used to postpone definite closure until cause is resolved
+- Tension free closure
+- Transparent: Useful in [[Bowel Ischemia]] 
+- Prevents Disembowelment

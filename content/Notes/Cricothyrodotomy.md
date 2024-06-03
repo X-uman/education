@@ -1,0 +1,4 @@
+- 16 gauge needle used
+- Maximum can be used for 30 min: Patient develops hypercapnia
+- #contraindications 
+	- Children <12y, Subglottic stenosis

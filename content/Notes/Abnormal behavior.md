@@ -1,0 +1,15 @@
+- Social Withdrawal
+- Overactivity, aggressive, aversive or destructive
+- Catatonic stupor
+- Waxy flexibility
+- Posturing
+- Negativism
+- Automatic obedience
+- echolalia
+- Echopraxia (related [[Apraxia]])
+- Gigenhalten
+- Ambitendency
+- Stereotypy; spontaneous, repetition of odd purposeless movement
+- Mannerism: spontantous, repetition of semi-purposeful movement done in an exaggerated 
+- [[Perseveration]]:
+![[Image_from_page_719_of_ Diseases_of_the_nervous_system_-_a_text-book_of_neurology_and_psychiatry _(1915).jpg]]

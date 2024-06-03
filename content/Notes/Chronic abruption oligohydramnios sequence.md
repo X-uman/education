@@ -1,0 +1,5 @@
+- Chronic [[PV bleeding]] from [[1st trimester]] 
+- [[Uteroplacental insufficiency]] ?
+- [[Hypoxia]] and [[decreased urine output]] in fetus
+- Associated with [[PPROM]], [[Preterm labor]] and Chronic lung disease
+- [[Amnio-infusion]] 

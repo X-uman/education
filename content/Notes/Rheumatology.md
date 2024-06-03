@@ -1,0 +1,12 @@
+- [ ] [[SLE]] 
+- [ ] [[Crystal induced arthropathies]]
+- [ ] [[Rheumatoid Arthritis]]  
+- [ ] [[Systemic sclerosis]] 
+- [ ] [[Seronegative spondyloarthropathies]] 
+- [ ] [[Dermatomyositis & Polymyositis]] 
+- [ ] [[Mixed connective tissue disorders]] 
+- [ ] [[Vasculitis]] 
+- [ ] [[Antiphospholipid Syndrome]] 
+###### Considerations
+- [[Osteoarthritis]] gets worse with use, RA becomes better
+- [[Arthritis]] 

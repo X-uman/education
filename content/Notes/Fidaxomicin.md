@@ -1,0 +1,3 @@
+- Fidaxomicin (and its active metabolite OP-1118) is bactericidal against _C difficile_ and exhibits a prolonged post-antibiotic effect (approximately 10 h). 
+- Other than for _C difficile_, fidaxomicin demonstrated only moderate inhibitory activity against Gram-positive bacteria and was a poor inhibitor of normal colonic flora, including anaerobes and enteric Gram-negative bacilli.
+- A 2021 focused update of the IDSA/SHEA guidelines recommends fidaxomicin over [[vancomycin]] for patients with non-severe CDI and severe CDI because of its higher clinical response rate and lower recurrence rates. 

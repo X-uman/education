@@ -1,0 +1,3 @@
+- A test used in the workup of prolonged PTT in which the patient's plasma is mixed with normal plasma in vitro. 
+- If the prolonged aPTT is caused by a lack of clotting factors, the factors contained in the normal plasma will normalize the aPTT. 
+- In the presence of a clotting inhibitor such as [[lupus anticoagulant]] , the clotting time (aPTT) remains increased.

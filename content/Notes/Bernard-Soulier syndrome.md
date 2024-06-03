@@ -1,0 +1,7 @@
+- [[Platelet adhesion.png]]
+- deficient platelet Glycoprotein 1b-9 
+- A [[glycoprotein]] that forms part of the receptor for [[von Willebrand factor]] on the endothelial lining
+- Autosomal recessive
+- Giant platelets, [[Notes/Thrombocytopenia]]
+- [[Platelet aggregation tests]] 
+- Confirmed by [[Flow cytometry]]

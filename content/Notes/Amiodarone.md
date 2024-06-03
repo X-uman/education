@@ -1,0 +1,1 @@
+Has both rate and rhythm control mechanisms but high risk of toxicity and multiple drug interactions. 

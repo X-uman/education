@@ -1,0 +1,1 @@
+- This is an idiopathic phenomenon, which results from erythrocyte extravasation into the dermis in the lower extremities due to capillary fragility or leaky blood vessels, venous stasis or exercise.  Hyperpigmentation in the lower extremities is frequently present.

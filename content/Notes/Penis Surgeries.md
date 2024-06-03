@@ -1,0 +1,11 @@
+- Partial Penectomy:
+	- 20cm margin with tumor
+	- 2cm remaining shaft for [[Micturition]] and Sex
+- Total amputation; 
+	- <2cm remaining shaft
+	- Only Urethral function remains
+- Young's Operation
+	- Partial Penectomy + BL Ilioinguinal Dissection
+- Piersy Gold Operation (Emasculation) #obsolete 
+	- Total amputation + Scrotum 
+

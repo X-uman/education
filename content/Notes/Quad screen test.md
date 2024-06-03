@@ -1,0 +1,4 @@
+- A prenatal screening test performed at 15–22 weeks' gestation that includes the measurement of β-HCG, alpha-fetoprotein (AFP), estriol, and inhibin A in the maternal serum. 
+- Decreased levels of free estriol and AFP suggest numerical abnormalities of the fetal chromosomes. 
+- β-HCG is also elevated in trisomy 21 and decreased in trisomy 18. 
+- In cases with an increased risk (based on maternal age, lab results, and ultrasound), amniocentesis or chorionic villus sampling are recommended for chromosome analysis.

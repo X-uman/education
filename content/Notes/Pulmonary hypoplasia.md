@@ -1,0 +1,5 @@
+- Potter sequence, rib deformities, anasarca, scaphoid abdomen) as a result of the pathological processes that ultimately lead to pulmonary hypoplasia (e.g., oligohydramnios, thoracic dystrophy, fetal hydrops, diaphragmatic hernia).
+- Underdevelopment of the lungs characterized by a decreased number of alveoli and small airways and reduced lung volumes in one or both lobes
+- Results in impaired gas exchange and severe respiratory distress that may require intubation
+- Associated with congenital diaphragmatic hernia (usually left-sided), [[oligohydramnios]], and [[Potter sequence]]
+- [[bronchopulmonary dysplasia]] how are they different?

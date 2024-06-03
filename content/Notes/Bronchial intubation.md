@@ -1,0 +1,4 @@
+- Unilateral breath sounds
+- Unexpected hypoxia in pulse oximetry (Unreliable)
+- Inability to palpate Et-tube in Sternal notch during cuff inflation
+- Decreasing breathing bag compliance (high peak inspiratory pressures)

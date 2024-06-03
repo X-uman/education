@@ -1,0 +1,3 @@
+- Increased [[Creatine Kinase]]
+- Increased Aldolase
+- [[myoglobinuria]] 

@@ -1,0 +1,4 @@
+- Systemic effects of inflammation 
+- [[Fibroblast]] activation for [[Collagen synthesis]]
+- Stimulates [[T-helper cells]]-17 responses which induces Acute [[Inflammation]] 
+- Anakinra: IL-1 receptor antagonist, used especially for [[Still disease]] 

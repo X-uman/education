@@ -1,0 +1,7 @@
+- Stimulus: Tactile stimulus
+- Receptor: [[Touch receptors]]
+- Afferent limb: Ophthalmic branch of trigeminal
+- Processing center: Brainstem
+- Efferent nerve: Facial nerve
+- Effector/muscle: [[Orbicularis oculi]]
+- Effect: Closure of eye 

@@ -1,0 +1,6 @@
+- [[Anterior uveitis]] 
+	- if ANA positive, Age <= 7 years, Disease duration <= 4y, should undergo ophthalmic screening every 3 months, other patients every 12 months, patient with AU should be monitored every 1-3 months
+- Rashes
+- Nail changes as in [[Psoriasis]] 
+- [[Lymphadenopathy]]
+- [[Hepatosplenomegaly]]

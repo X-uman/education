@@ -1,0 +1,1 @@
+ - ability to think about objects, principles, and ideas that are not physically present. Ability to analyze(break down into many parts) and synthesize (combine into 1 whole from parts) like telling difference and similarities between a table and a chair as parts or as whole, or telling the meaning of a proverb

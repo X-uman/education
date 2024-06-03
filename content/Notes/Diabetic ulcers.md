@@ -1,0 +1,3 @@
+- [[Neuropathic ulcers]]
+- [[Ischemic ulcers]]
+- Neuroischemic ulcers

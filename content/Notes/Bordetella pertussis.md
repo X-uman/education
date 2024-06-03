@@ -1,0 +1,3 @@
+[[Pertussis]] 
+- Proliferation of Bordetella pertussis on ciliated epithelial cells of the respiratory mucosa → production of virulence factors (e.g., tracheal cytotoxin) → paralysis of respiratory epithelium cilia and inflammation → secretion of inflammatory exudate into respiratory tract → compromise of small airways → cough, pneumonia, cyanosis
+- Bordetella pertussis produces pertussis toxin → ADP-ribosylation of the α subunit of Gi protein → inhibition of Gi protein → adenylate cyclase disinhibition → cAMP accumulation → impaired cell signaling pathways

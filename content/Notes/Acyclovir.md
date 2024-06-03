@@ -1,0 +1,3 @@
+- Can precipitate inside tubules and obstruct at high bolus doses (500 mg/m2) or in hypovolemia.
+- Foscarnet, Pentamidine, Tenofovir and Cidofovir are also frequently associated with tubular toxicity.
+- Foscarnet used in Acyclovir resistance 

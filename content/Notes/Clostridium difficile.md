@@ -1,0 +1,1 @@
+- Alcoholic hand gels can act as a substitute for hand washing, but do not destroy the spores of Clostridium difficile, which may cause pseudomembranous colitis, especially in immunocompromised patients or those whose gut flora is suppressed by antibiotic therapy.

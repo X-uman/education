@@ -1,0 +1,11 @@
+- Normal Rates
+	- Preterm Neonates: 40-60
+	- Term neonates: 30-50
+	- 1 m - 1y: 20-40
+	- 1 - 5 y: 20-30
+	- 5 - 10 y: 15-20 
+
+- Fast breathing
+	- < 2 months: > 60
+	- 2 months - 1year: > 50
+	- > 1 y: > 40

@@ -1,0 +1,4 @@
+- Positive End Expiratory Pressure
+- To prevent collapse of alveoli 
+- Do not give too much pressure also, that cause [[barotrauma]] to alveoli..
+- Can be given by [[CPAP]] or [[Mechanical Ventilation]] 

@@ -1,0 +1,4 @@
+ - affective flattening, poverty of speech/thought, avolition – apathy, anhedonia, social withdrawal, inattentiveness
+ - ↓ Dopamine in  [[Mesocortical pathway]] may cause negative symptoms of psychosis.
+ - Negative symptoms associated with worse prognosis
+ - 

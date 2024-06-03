@@ -1,0 +1,2 @@
+- True knot(rare): protected from compression be Wharton's Jelly
+- False knot: Accumulation of Wharton's jelly or varices

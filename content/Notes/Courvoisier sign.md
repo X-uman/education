@@ -1,0 +1,1 @@
+- Distended nontender gallbladder is not due to gallstones because the organ usually is already shrivelled. 

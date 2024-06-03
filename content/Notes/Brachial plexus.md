@@ -1,0 +1,15 @@
+- Posterior cord: STAR
+	- Subscapular
+	- Thoracodorsal 
+	- Axillary
+	- Radial
+- Lateral cord: MLM
+	- Musculo-cutaneus
+	- Lateral pectoral
+	- Median nerve (Lateral root)
+- Medial cord: MMMMU 
+	- Medial cutaneous nerve of arm
+	- Medial cutaneous nerve of forearm
+	- Medial pectoral
+	- Median nerve (Medial root)
+	- Ulnar nerve

@@ -1,0 +1,10 @@
+- Simple Fractures
+	- Transverse #
+	- Oblique #
+	- Spiral #
+- Complex Fractures
+	- Comminuted #
+	- Wedge: Butterfly segment 
+	- Segmental #
+	- [[Open Fractures]]
+- [[Pathological fractures]] 

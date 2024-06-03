@@ -1,0 +1,5 @@
+- High dose for long duration (> 1day) in Pediatric patients
+- Features
+	- [[Metabolic acidosis]] is earliest sign
+	- Hallmark is [[Rhabdomyolysis]]
+	- green urine

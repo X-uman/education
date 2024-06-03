@@ -1,0 +1,9 @@
+- persistent [[RUQ pain]] or new symptoms following [[gallbladder]] removal
+- Incidence: 10–15% of patients
+- Clinical features 
+	- Gastritis, dyspepsia, GERD 
+	- [[Post-cholecystectomy diarrhea]] and bloating 
+	- Jaundice and upper abdominal pain 
+- Diagnostics: 
+	- LFT and transabdominal ultrasound are preferred initial tests 
+- Treatment: Treat the underlying cause 

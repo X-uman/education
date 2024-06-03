@@ -1,0 +1,10 @@
+- [[AST]] and [[ALT]]
+- [[ALP]]
+- [[Bilirubin]]
+	- Indirect bilirubin
+	- Direct bilirubin
+- [[albumin]] indicates [[Chronic liver disease]] 
+- [[Prothrombin time]]
+- [[Glucose]]
+- [[Ammonia]]
+- [[metabolic acidosis]] if liver cell injury

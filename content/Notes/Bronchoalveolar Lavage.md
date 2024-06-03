@@ -1,0 +1,8 @@
+- Blood: [[Diffuse Alveolar hemorrhage]]
+- Milky: [[Pulmonary Alveolar Proteinosis]]
+- Eosinophilia: [[Acute Eosinophilic Pneumonia]]
+- Lymphocytosis: Granulomatous ILD, like Hypersensitivity, Drug or cellular NSIP
+- Positive Lymphocyte Proliferation Assay in [[Berylliosis]]
+- Asbestos bodies in [[Asbestosis]]
+- CD1a positive cells in LCH
+- Immunocompromised host: Fungal, Mycobacterial, Viral Bacterial

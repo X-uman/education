@@ -1,0 +1,4 @@
+- The place where a tendon or ligament meets your bone is called an enthesis
+- Examples
+	- [[Plantar fascitis]]
+	- [[Achilles tendonitis]]  

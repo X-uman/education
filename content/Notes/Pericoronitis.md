@@ -1,0 +1,1 @@
+![[1200px-48_clinical_pericornitis.jpg]]

@@ -1,0 +1,11 @@
+- Blockage of unidirectional flow of urine leading to increased retrograde hydrostatic pressure and interference with GFR.
+- [[Obstruction]] can be caused by functional or Structural derangements.
+- Partial obstruction may still have normal urine flow rate, so it may be misleading in hiding postrenal partial obstruction.
+- If both kidneys are healthy, obstruction must affect both kidneys to observe large increases in SCr. 
+- Bladder neck obstruction is common cause of postrenal AKI which impacts both kidneys. 
+- It may be due to Prostate disease, [[Neurogenic bladder]], or Therapy with Anti-cholinergic drugs, Obstructed Foley's catheter, blood clots, calculi, [[urethral structures]] 
+- Initial period of Hyperemia from afferent arteriolar dilation is followed by intrarenal vasoconstriction from generation of Ag-II, Thromboxane A2, and Vasopressin and reduction in NO production. 
+- Under perfusion of Glomeruli and changes in Glomerular Ultrafiltration coefficient cause reduction of glomerular functions
+### Management
+- Treatment of underlying cause
+- BL severe hydro-nephrosis with ESRD: [[Renal replacement therapy]] 

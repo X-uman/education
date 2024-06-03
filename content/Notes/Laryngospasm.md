@@ -1,0 +1,9 @@
+- [[Superior laryngeal nerve]] stimulation
+- Can be due to secretions or ET-tube
+- Abnormally sensitive reflex (Opposite of [[Aspiration]])
+- Treatment: 100% Oxygen with Bag and mask
+- Hypoxia: 
+	- Small dose [[Succinylcholine]] to relax laryngeal muscles
+- Excess negative Intrathoracic pressure can lead to 
+	- [[Pulmonary edema]]
+- Prevented by Extubating in deeply asleep or fully awake patient

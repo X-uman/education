@@ -1,0 +1,3 @@
+- Immediate(<10min): Whether they can remember 3 discrete objects like words Car, Pen, House after 10 minutes, or count digits forwards & backwards
+- Recent(1-2 days): Whether they can remember food they this morning and last night, or events that happened at home or hospital like visitor's name
+- Remote(>=2 years without rehearsal): Date of marriage, SLC, Childbirth date, Major national events

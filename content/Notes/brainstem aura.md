@@ -1,0 +1,5 @@
+- [[dysarthria]], vertigo, or [[ataxia]], without evidence of motor weakness
+- [[Syncope]]
+- Parasthesia
+- Diplopia
+- Tinnitus

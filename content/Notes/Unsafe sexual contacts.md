@@ -1,0 +1,6 @@
+- Early age of sex
+- Multiple sexual partners
+- Other [[STI]] like [[Herpes simplex virus]], [[Chlamydia trachomatis]] 
+- Male with multiple sex partners
+- Prior history of STIs
+- 

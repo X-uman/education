@@ -1,0 +1,8 @@
+- One on Floor-Four More
+- Clot: Clenched fist sized: 350ml loss
+- Soaked Pad: 500ml
+- Four cavities: Blood can collect up to
+	- Chest: 1500ml
+	- Abdomen: 1500ml
+	- Pelvis: 2000ml
+	- Extremities: 1000-1500ml

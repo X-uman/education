@@ -1,0 +1,1 @@
+Increases occur earlier and persist longer than ALP in cholestatic disorders. Since skeletal disease is not associated with increased serum activity, measurement of GGT is of clinical value in identifying the source of obscure ALP elevations.

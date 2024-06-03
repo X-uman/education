@@ -1,0 +1,4 @@
+- Result of deficient amniotic fluid over a prolonged period of time
+- From vernix that has been rubbed into defects of the amniotic surface
+	- Most likely first step is reactive amnionic epithelium due to decreased / absent amniotic fluid
+	- Vernix is then able to attach to the defect

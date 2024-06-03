@@ -1,0 +1,15 @@
+- Screening
+	- Examination
+	- Investigations
+		- Imaging
+		- Biochemicals: [[Tumor Markers]]
+- Confirmation: [[Tissue diagnosis]]
+	- Tumor mass biopsy
+	- Lymph Node biopsy
+		- Sentinel Nodes
+- Staging: Imaging
+	- [[CT-scan]]
+	- [[MRI]]
+	- [[PET-CT Scan]]
+	- [[USG]]
+

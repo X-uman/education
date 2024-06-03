@@ -1,0 +1,3 @@
+ - [[Samter triad]] 
+ - Exacerbated by a pseudoallergic sensitivity reaction to [[aspirin]] and other [[NSAIDs]] (NSAID intolerance) 
+ -  Etiology: imbalance between proinflammatory [[leukotrienes]] and anti-inflammatory [[prostaglandins]] resulting from [[COX]] enzyme inhibition

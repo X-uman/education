@@ -1,0 +1,19 @@
+
+This is the new password for the "root" on the router.
+It's not good idea to keep the default password for the router.'
+
+
+
+
+Take a note on this:
+
+username: root
+password: sum@n@dh
+
+
+
+Yo Wifi  is using dynamic, pubic IP address. Cannot access the network remotely.
+
+Thanks..
+
+Tata.

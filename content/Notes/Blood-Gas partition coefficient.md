@@ -1,0 +1,8 @@
+- Measure of Blood solubility
+- BGPC= dissolved concentration/freed concentration
+- Ratio of Blood and Alveolar concentrations when diffusion has completed
+- Time taken more as it increases 
+- Speed of induction/recovery ∝ 1/blood solubility 
+- Less soluble is the gas in blood, faster it reaches the brain tissue to induce anesthesia
+- Affects onset of action and recovery time
+- [[Brain-blood partition coefficient]] 

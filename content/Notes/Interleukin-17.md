@@ -1,0 +1,5 @@
+- Secreted by [[T-lymphocytes]]
+- [[Neutrophil recruitment]] and monocytes
+- Chronic inflammation 
+- secukinumab, ixekizumab, brodalumab block the receptors
+	- Used in Psoriasis, AS

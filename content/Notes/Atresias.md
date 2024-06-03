@@ -1,0 +1,3 @@
+Duodenum
+jejunum
+Ileum

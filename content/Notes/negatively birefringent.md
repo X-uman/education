@@ -1,0 +1,2 @@
+- Crystals appear yellow when their optical axis is oriented parallel to the polarizer.
+- Crystals appear blue when their axis is perpendicular to the polarizer.

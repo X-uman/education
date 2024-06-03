@@ -1,0 +1,2 @@
+Salt wasting: [[Hyponatremia]]
+Hypovolemia 

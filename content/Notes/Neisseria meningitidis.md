@@ -1,0 +1,19 @@
+- Gram negative diplococci 
+- Encapsulated
+- Strict Aerobes
+- Non-motile 
+- Lipo-oligo-saccharide is correlated with the severity of the infection
+- Affects children < 2 y
+- Spread along the perineural sheath of olfactory nerve through cribriform plate to subarachnoid space or through blood stream
+- Signs of [[Disseminated intravascular coagulation]] 
+	- Fever with petechial rash: Does not fade on pressing with glass
+	 - Non-blanching, petechial rash (mostly on trunk and legs); in severe cases, even [[purpura fulminans]] with extensive [[skin necrosis]]
+- Needs [[thayer martin media]] 
+- People with [[complement pathway]] deficiency including properdin are highly susceptible
+- [[Waterhouse-Friderichsen syndrome]] 
+- [[Penicillin G]] is antibiotic of choice for susceptible strains
+- Cefotaxime/Ceftriaxone for resistance
+- Prophylaxis: 
+	- [[Rifampicin]] 600mg q12h for 2 d for adults and 10mg/kg q12h for 2 d for children 
+	- [[Ceftriaxone]]
+	- [[Ciprofloxacin]]

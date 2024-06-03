@@ -1,0 +1,5 @@
+- [[Neutrophil recruitment]]
+- New Name: CXC L8
+- Secreted by Activated macrophages, endothelial cells 
+- inducers: Microbial products, [[Interleukin-1]], [[TNF-a]] 
+- Acute [[Inflammation]] 

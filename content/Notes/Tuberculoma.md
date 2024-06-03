@@ -1,0 +1,16 @@
+- Aggregated [[Caseous necrosis]] 
+- Clinically manifest as [[CNS tumors]], so misonomer
+### Clinical features
+- 1st stage
+	- Non-specific like [[Viral prodrome]] 
+	- Absent FND
+- 2nd stage
+	- [[Focal neurological deficits]] 
+	- [[Notes/Hydrocephalus]]
+	- [[Vasculitis]]
+	- [[Encephalitis]]
+	- [[Features of Raised ICP]]
+- 3rd stage
+	- [[Coma]]
+	- [[Decerebrate posturing]]
+	- [[Brain Herniation]] 

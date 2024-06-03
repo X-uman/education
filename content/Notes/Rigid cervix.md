@@ -1,0 +1,4 @@
+- Scarred cervix
+	- [[Amputation]]
+	- [[Conization]]
+- [[Carcinoma cervix]]

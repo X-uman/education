@@ -1,0 +1,3 @@
+- Transmitted by Feco-oral route
+- From Shellfish living in Sewage contaminated water
+- [[Virus detection]] 

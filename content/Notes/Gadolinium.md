@@ -1,0 +1,1 @@
+- [[Nephrogenic systemic fibrosis]] in patients with impaired renal function

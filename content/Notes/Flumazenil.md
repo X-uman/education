@@ -1,0 +1,2 @@
+- Duration of action: 60-90min
+- Dose: 10mcg/kg

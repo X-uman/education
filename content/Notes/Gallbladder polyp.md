@@ -1,0 +1,5 @@
+- 5% of polyps are [[adenomas]], which are premalignant [2]
+- Up to 50% of polyps > 1 cm are carcinomas [2]
+- Diagnosis: Ultrasound (transabdominal or endoscopic) 
+- Parietal echogenic tumor, easily mistaken for a gallstone
+- **No change in position of pathology during movement or acoustic shadow (in contrast to a gallstone)**

@@ -1,0 +1,3 @@
+- significantly increased cerebral blood flow in women with severe preeclampsia compared with that of normotensive pregnant women (Zeeman, 2004b). Taken together, these findings suggest that eclampsia occurs when cerebral hyper-perfusion forces capillary fluid interstitially because of endothelial damage, which leads to perivascular edema characteristic of the preeclampsia syndrome. In this regard, eclampsia is an example of the [posterior reversible encephalopathy syndrome].
+- [[Cerebral edema]]
+- 

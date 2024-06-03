@@ -1,0 +1,2 @@
+- Antibodies (anti-Ro/SSA or anti-La/SSB) in either the mother or child
+- [[Heart block]], characteristic rash, and/or hematologic/hepatic involvement with no identifiable cause in the newborn/fetus

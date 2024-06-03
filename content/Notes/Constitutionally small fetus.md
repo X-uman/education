@@ -1,0 +1,3 @@
+- Diagnosis of exclusion
+- Small mother, Asian, female fetuses
+- Doppler: Normal Blood flow pattern 

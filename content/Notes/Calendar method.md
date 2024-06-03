@@ -1,0 +1,2 @@
+- Shortest cycle - 18 gives first day of fertile
+- Longest cycle -10 gives Last day of fertile

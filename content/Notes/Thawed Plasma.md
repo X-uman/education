@@ -1,0 +1,1 @@
+Thawed Plasma may be used interchangeably with FFP for all of the indications listed above, with the exception of factor VIII deficiency without access to factor VIII concentrates, in which FFP should be used, or factor V deficiency, in which FFP or PF24 should be used.

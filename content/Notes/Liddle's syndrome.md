@@ -1,0 +1,3 @@
+- Liddle's syndrome is a rare autosomal dominant condition that causes hypertension and hypokalaemic alkalosis. 
+- It is thought to be caused by disordered sodium channels in the distal tubules leading to increased reabsorption of sodium.
+- Treatment is with [[ENaC Blockers]]

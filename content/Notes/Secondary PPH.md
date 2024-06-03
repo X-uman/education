@@ -1,0 +1,2 @@
+- PPH after 24 h of delivery of placenta, 6-12 weeks postpartum
+- Causes: [[Sub-involution of Uterus]] 

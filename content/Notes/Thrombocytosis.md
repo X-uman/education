@@ -1,0 +1,7 @@
+- Reactive
+	- [[Chronic myeloid leukemia]]
+	- [[Splenectomy]]
+	- [[Autoimmune diseases]]
+	- [[Chronic Inflammation]] 
+- [[essential thrombocythemia]]
+- [[paraneoplastic syndrome]] 

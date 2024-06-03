@@ -1,0 +1,2 @@
+- 5-Amino-salicylic acid (5-ASA)
+	- The active component of sulfasalazine. Used to treat inflammatory bowel disease (e.g., ulcerative colitis, Crohn disease). Mechanism of action is unknown but thought to involve downregulation of the inflammatory and immune responses.

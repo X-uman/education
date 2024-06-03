@@ -1,0 +1,1 @@
+- Red or brown urine may be seen with or without gross [[hematuria]]; if the color persists in the supernatant after centrifugation, then pigment nephropathy from [[rhabdomyolysis]] or [[Notes/Hemolysis]] should be suspected.

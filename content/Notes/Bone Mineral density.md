@@ -1,0 +1,11 @@
+- Measured using [[DXA]] 
+- For Postmenopausal women and men > 50 y
+	- T-score: The number of SDs by which a patient's BMD differs from the BMD of a young adult reference population of the same sex and ethnicity)
+	- T-score <= -2.5 S.D. indicates [[Osteoporosis]]
+	- T-score >= -1 S.D. is Normal
+	- Between them is Osteopenia 
+- Other individuals: Z-score
+
+- Screening recommended for
+	- Women > 65 y
+	- Women <= 65 y at increased risk of Osteoporosis determined by Clinical risk assessment tool like [[FRAX-score]] 

@@ -1,0 +1,2 @@
+- An immune-modulating monoclonal antibody that interferes with the activity of IL-12 and IL-23, which are responsible for natural killer cell activation and CD4+ T-cell differentiation and activation. 
+- Used to treat Crohn disease, plaque psoriasis, and psoriatic arthritis.

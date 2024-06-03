@@ -1,0 +1,3 @@
+- [[ACTH]]: [[Small cell carcinoma]] 
+- PTH related Peptide([[PTrP]]): Humoral Hypercalcemia of Malignancy
+- [[RANK Ligand]]: [[Lytic bone lesions]] 

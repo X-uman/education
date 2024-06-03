@@ -1,0 +1,2 @@
+- A heart-lung bypass pump that circulates the infant's blood through an artificial lung and then back into the bloodstream.
+- Contraindicated in infants with large/expanding intracranial hemorrhages, as ECLS requires anticoagulation

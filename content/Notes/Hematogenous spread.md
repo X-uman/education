@@ -1,0 +1,7 @@
+- [[Abscess]]
+- [[Surgical site infection]]
+- [[Septicemia]]
+- [[IV drug use]] 
+- [[Infective endocarditis]] 
+- Disseminated infection
+	- [[Gonorrhea]] 

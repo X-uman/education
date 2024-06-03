@@ -1,0 +1,3 @@
+- Present in egg white (Raw egg white injury factor)
+- Glycoprotein that binds to Biotin in intestine and decreases absorption
+- Inactivated (denaturation)  by boiling the egg

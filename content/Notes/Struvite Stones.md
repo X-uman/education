@@ -1,0 +1,3 @@
+- Smooth stones
+- Coffin lid appearing
+- Commonest in infections due to [[Urea]] Splitting [[UTI]] like [[Proteus]] 

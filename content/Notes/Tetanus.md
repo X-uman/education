@@ -1,0 +1,24 @@
+- Resembles [[Strychnine]] in its effects
+- Specifically blocks synaptic inhibition in the [[spinal cord]], that use [[Glycine]] and [[GABA]]
+	- Protease: Breaks down [[SNARE Proteins]]
+	- Inhibits fusion of vesicles of GABA and Glycine 
+	- Stimulation of [[Alpha Motor neurons]] ([[Nerve fibers]])
+- But differs from strychnine which acts Post-synaptic 
+- by acting Pre-synaptic
+- Abolition of Spinal Inhibition causes uncontrolled spread of impulses initiated anywhere in CNS: Hyper-responsiveness
+- This leads in muscle [[rigidity]] and spasms due to simultaneous contraction of Agonists and Antagonists in the absence of Reciprocal Inhibition
+- [[UMN Lesions]] 
+- [[Localized tetanus]]
+- [[Generalized tetanus]]
+- [[Cephalic tetanus]] 
+### Management
+- [[Airway Management]]
+- [[Tetanus prophylaxis]]
+- Antibiotics: Metronidazole
+- Symptomatic
+	- [[Seizures]]
+	- [[dehydration]]
+	- [[Hypoxemia]]
+	- Hyper-responsiveness
+	- [[Autonomic dysfunction]]: Propranolol
+

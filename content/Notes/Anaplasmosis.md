@@ -1,0 +1,1 @@
+Anaplasma phagocytophilum

@@ -1,0 +1,2 @@
+- A type of status epilepticus that manifests with altered mental state in the absence of convulsions. 
+- Typically seen in the critically ill. Causes include electrolyte abnormalities, hypoxic brain injury, stroke, brain tumors, acute hormonal alterations, and medication with epileptogenic potential. Diagnosis requires a high index of suspicion. Electroencephalography can show focal or generalized cortical seizure activity.  

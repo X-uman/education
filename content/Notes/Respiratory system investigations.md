@@ -1,0 +1,42 @@
+---
+edited: 2024-03-02
+tags:
+  - pulmonology
+---
+- Endoscopic Techniques:
+	- [[Bronchoscopy]] 
+	- [[Bronchoalveolar lavage]]
+- Imaging
+	- Chest X-ray
+	- CT-scan
+		- Standard Resolution
+		- High Resolution ([[HRCT Chest]])
+		- [[CECT]] 
+		- CTPA
+	- Pulmonary Angiography
+	- USG
+	- [[V-Q scan]] 
+- [[Pulmonary function tests]] 
+- Biochemical Tests
+	- [[Procalcitonin]]
+	- [[D-Dimer]]
+	- [[Adenosine Deaminase]]
+	- [[ABG]] 
+- Serological Tests/PCRs
+	- Interferon Gamma Release Assay
+	- Gene-Xpert Test
+	- Line Probe Assay
+- Therapeutic Tests
+	- [[Thoracocentesis]] 
+	- [[Thoracotomy]] 
+
+- Some Criteria
+	- [[Light's criteria]] 
+	- CURB-65 for Pneumonia
+	- Gold Classification of COPD
+- Some Interventions
+	- Non-invasive Positive pressure ventilation (NIPPV)
+	- [[Endotracheal intubation]]
+	- [[Mechanical Ventilation]] 
+
+---

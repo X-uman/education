@@ -1,0 +1,1 @@
+- Vertical striations are the result of thickening of the bony trabeculae and produce a dotted appearance if imaged en face.

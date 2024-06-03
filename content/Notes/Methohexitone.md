@@ -1,0 +1,1 @@
+Used in [[Electroconvulsive therapy]]

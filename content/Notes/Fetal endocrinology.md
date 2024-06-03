@@ -1,0 +1,5 @@
+- Steroid Hormones:
+	- Precursors in Fetal adrenals
+		- Defective HPA Axis: [[Anencephaly]] and [[Adrenal hypoplasia]] leads to diminished fetal cortisol response
+	- Estrogen produced by placenta
+		- (Sulfatase deficiency: Low placenta and Post term labor)

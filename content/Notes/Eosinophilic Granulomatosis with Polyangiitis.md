@@ -1,0 +1,1 @@
+- chronic sinusitis, asthma, and peripheral blood eosinophilia

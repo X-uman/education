@@ -1,0 +1,11 @@
+- MCC of malignant tumor of [[Submandibular Gland]]
+- Can be low or high grade
+- prognosis is bad because 85% present with [[perineural invasion]] and can go to skull base, no LN [[Metastasis]]
+- commonest nerves involved are maxillary and mandibular divisions of [[Trigeminal nerve]]
+- shows an admixture of many architectural patterns, including cribriform, tubular, and solid growth with a myxohyaline stroma 
+- Obsolete term was cylindroma 
+- Grading
+	- Grade 1 can have no solid areas. 
+	- Grade 2 tumors can have <30% solid foci. 
+	- Grade 3 tumors have >30% solid areas. 
+- [[Ki-67]] estimates growth fraction of tumor 

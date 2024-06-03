@@ -1,0 +1,6 @@
+[[lupus vulgaris]]
+[[Granuloma annulare]]
+[[Erythema annulare centrifugare]] 
+[[Porokeratosis]]
+[[Lichen planus]] 
+[[Borreliosis]] 

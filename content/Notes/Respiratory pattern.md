@@ -1,0 +1,4 @@
+- Normal 
+- [[Kussumaul breathing]]
+- [[Cheyne-stokes breathing]]
+- [[Biot breathing]] 

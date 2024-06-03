@@ -1,0 +1,3 @@
+- Decreased Fecal Elastase-1 < 100 indicates severe exocrine impairment : Confirms that Steatorrhea is due to pancreatic lipase insufficiency
+- Fecal fat excretion test: > 7/ 100 g of fat loss 
+- 

@@ -1,0 +1,3 @@
+- [[Immune thrombocytopenia purpura]]
+- [[Platelet Aggregation]] disorder: deficient Platelet Glycoprotein 2b/3a
+- [[Autosomal recessive]]

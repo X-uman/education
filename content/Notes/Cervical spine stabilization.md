@@ -1,0 +1,4 @@
+- [[Cervical spine examination]] 
+- Immobilize spine until proven otherwise by doing X-ray 
+- [[cervical collar]] 
+- 

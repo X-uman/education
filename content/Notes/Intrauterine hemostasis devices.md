@@ -1,0 +1,3 @@
+- [[Intrauterine packing]]
+- [[Balloon tamponade]] 
+- Intrauterine vacuum

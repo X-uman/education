@@ -1,0 +1,3 @@
+- Adjust Posture
+- Error correction
+- Smoothness and coordination of voluntary movements

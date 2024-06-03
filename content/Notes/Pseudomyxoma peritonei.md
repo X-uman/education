@@ -1,0 +1,6 @@
+- Mucinous Neoplasm + Extensive mucinous [[Ascites]] 
+- #MCC is Mucinous neoplasm of [[Appendix]]
+	- Other: Low Grade [[Mucinous Neoplasms]] of Ovary like Mucinous cystadenoma 
+- #prognosis poor even after surgery
+- #surgery [[Cytoreductive surgery]]
+- Cystic Epithelial Implants on the peritoneal surfaces and Adhesions 

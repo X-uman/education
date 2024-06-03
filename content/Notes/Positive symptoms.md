@@ -1,0 +1,2 @@
+- hallucinations, delusions, bizarre behavior, formal thought disorder, inappropriate affect]
+ - ↑ Dopamine in [[mesolimbic pathway]] may lead to positive symptoms of psychosis. 

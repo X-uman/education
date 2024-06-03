@@ -1,0 +1,11 @@
+- [[Myocardial depression]] 
+	- Cardiac Na channels more slowly unbind bupivacaine than lidocaine 
+	- lipid emulsion with the onset of seizures and most certainly at the first signs of cardiotoxicity from Bupivacaine 
+	- Vasopressors May be required
+	- [[amiodarone]] may be given for Tachycardias 
+	- Susceptibility increased during pregnancy 
+- signs of cardiac toxicity from bupivacaine
+- Low concentration: NO inhibition: [[vasoconstriction]]
+- High Concentration: Vasodilation except Cocaine
+- Bupivacaine: Ventricular depression, atrioventricular heart block, and life-threatening arrhythmias such as ventricular tachycardia and fibrillation
+- Features resembling [[Hyponatremia]] 

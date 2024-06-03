@@ -1,0 +1,18 @@
+- Definition: Localized Intraosseous abscess with subacute or chronic pyogenic infection 
+	- Localized form of subacute osteomyelitis that occurs in long bone of lower extremities of young adults
+	- Seen in immunocompetent host
+	- [[Staphylococcus aureus]] in 50%
+- Requires Open Biopsy with curettage to make biopsy
+- Frequently asymptomatic or mild pain
+- Diagnosis: X-ray/CE-MRI
+	- Lytic lesion with sclerotic margin
+
+- Complications
+	- Abscess, Sequestrum, Chronic OM
+	- [[Pyarthrosis]]
+	- Sinus tract
+	- Cellulitis
+	- Sepsis
+	- [[Pathological fractures]]
+	- [[Pseudoarthrosis]]
+	- Development of [[Marjolin Ulcer]] 

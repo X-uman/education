@@ -1,0 +1,10 @@
+- [[Mephenesin]]
+- [[Carisoprodol]]
+- [[Chlorzoxazone]] 
+- [[Chlormethazone]]
+- [[Methocarbamol]]
+- [[Diazepam]]
+- [[Baclofen]] 
+- [[Thiocolchicoside]]
+- [[Tizanidine]]
+- 

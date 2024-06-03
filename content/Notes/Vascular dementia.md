@@ -1,0 +1,1 @@
+ - Small artery strokes caused by arterial hypertension or cerebral emboli, which destroys many areas of brain, onset of symptoms is more abrupt than AD and runs highly variable course, progressing in steps rather than gradual deterioration.

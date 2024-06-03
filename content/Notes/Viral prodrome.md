@@ -1,0 +1,8 @@
+- Malaise
+- Fatigue
+- Measles: Coryza, Cough and Conjunctivitis
+- Rashes
+	- Koplik spots
+	- Forchheimer sign: Enanthem of soft palate 
+- [[Lymphadenopathy]]
+	- Rubella: Post-auricular and Sub-occipital LAN

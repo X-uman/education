@@ -1,0 +1,1 @@
+![[Pterion.png]] 

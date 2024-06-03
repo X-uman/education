@@ -1,0 +1,7 @@
+- Provides Highest FiO2 of 80-100%
+- at Flow rate of 6-15 l/min
+- Patient not rebreathing any expired gas 
+- Suitable for patient with Severe Hypoxemia who can breathe
+- Impractical/uncomfortable/costly for long term
+- Malfunction can cause CO2 buildup
+- 

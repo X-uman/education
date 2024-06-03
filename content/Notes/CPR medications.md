@@ -1,0 +1,3 @@
+- Epinephrine after 2nd unsuccessful [[Defibrillation]]
+- Amiodarone after 3rd unsuccessful Defibrillation
+- Non Shockable Rhythms: [[Epinephrine]] 

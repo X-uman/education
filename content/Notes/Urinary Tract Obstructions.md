@@ -1,0 +1,2 @@
+- [[Notes/Bladder Outlet Obstruction|Bladder Outlet Obstruction]]  
+- [[Urinary retention]]

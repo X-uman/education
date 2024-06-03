@@ -1,0 +1,5 @@
+#MCC is Left [[Colonic cancers]]
+[[Sigmoid volvulus]]
+[[Volvulus]]
+[[Pseudo-obstruction of colon]]
+[[bowel obstruction]]

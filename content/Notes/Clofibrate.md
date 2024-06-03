@@ -1,0 +1,1 @@
+- (inhibition of [[cholesterol 7-α hydroxylase]]

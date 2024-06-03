@@ -1,0 +1,8 @@
+- Gunshot: Exploratory laparotomy
+- Sharp object: check [[hemodynamic parameters]] 
+	- Stable: Local exploration
+		- No peritoneal breach: Discharge 
+		- Peritoneal breach: CECT abdomen
+			- Positive findings: [[Exploratory laparotomy]]
+			- Monitor Hemoglobin status (fall in 3gm/dl) and WBC increase: 
+	- Unstable: Exploratory laparotomy

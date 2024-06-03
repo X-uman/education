@@ -1,0 +1,4 @@
+- [[complement pathway]] 
+- A recombinant monoclonal antibody that inhibits the immune system by binding to and deactivating complement C5 (the terminal part of the [[complement pathway]] ). 
+- Used to treat [[Paroxysmal nocturnal hemoglobinuria]] and atypical [[Hemolytic uremic syndrome]]. Increases the risk of infection with encapsulated bacteria (e.g., Neisseria spp.)
+- May be beneficial in HUS with neurological symptoms

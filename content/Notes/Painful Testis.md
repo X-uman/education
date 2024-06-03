@@ -1,0 +1,2 @@
+- [[Testicular torsion]]
+- [[Orchitis]]

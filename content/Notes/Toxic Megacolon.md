@@ -1,0 +1,1 @@
+- Inflammatory Mediators, fecal Toxins––> Damage Muscularis Propria and Enteric Plexus→ Toxic Megacolon→ Perforation

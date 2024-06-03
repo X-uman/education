@@ -1,0 +1,4 @@
+- 5% [[Lignocaine]] associated with [[Cauda Equina Syndrome]] after continuous anesthesia
+- Needles
+	- Dura piercing: Quincke needle 
+	- Dura separating: Whitacre needle

@@ -1,0 +1,4 @@
+- A radionuclide scan that uses technetium-99m to evaluate for bone disorders. 
+- Images are captured during three phases performed over several hours. 
+- If uptake occurs in all three phases, there is active inflammation in the bone (e.g., acute fracture, osteomyelitis, metastases). 
+- If uptake occurs only in the first two phases, this suggests soft tissue inflammation.

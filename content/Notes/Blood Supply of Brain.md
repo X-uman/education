@@ -1,0 +1,12 @@
+![[Pasted image 20230730192345.png]]
+![[Pasted image 20230730192410.png]]
+- [[Venous drainage of brain]]
+- [[Middle cerebral artery]] 
+- [[Internal Carotid Artery]] 
+- [[AICA PICA dominance]]
+- [[Basal nuclei blood supply]]
+- [[Azygous ACA]]
+- [[Artery of Percheron]] infarct in medial [[Thalamus]]
+- [[Trigeminal artery]]
+- [[Subclavian steal]]
+- 

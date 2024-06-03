@@ -1,0 +1,1 @@
+- left ventricular hypertrophy (LVH), AS, systemic arterial hypertension, and coarctation of aorta.

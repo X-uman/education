@@ -1,0 +1,4 @@
+- Supportive management
+	- Oral hygiene
+	- Antibiotic rinsing
+	- Limited debridement

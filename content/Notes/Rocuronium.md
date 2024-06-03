@@ -1,0 +1,3 @@
+- No active metabolite: Useful for Continuous infusion
+- Slower than only Succinyl choline, so alternative to it when SC is contraindicated
+- Not very cardiac friendly as [[Vecuronium]] 

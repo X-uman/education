@@ -1,0 +1,7 @@
+- [[Granuloma]]
+- Acute Exposure: Acute Pneumonitis
+- Chronic exposure
+	- Non-caseating [[Granuloma]]
+	- [[fibrosis]]
+	- Hilar LN Granulomas
+	- Systemic Granulomas: Skin

@@ -1,0 +1,12 @@
+Aka Hudson Mask 
+- High [[FiO2]] can be delivered, up to 60%
+- Low flow: 6-10 l/min 
+- Fits over face and Nose: 150-200ml reservoir 
+- 6l/min required to prevent CO2 inhalation 
+- Short term Oxygen therapy
+	- [[Postanesthesia care unit]]
+	- [[Critical patient transportation]]
+- Disadvantages
+	- Need to remove 
+	- uncomfortable in facial trauma
+	- No seal: O2 mixes with air 

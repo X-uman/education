@@ -1,0 +1,3 @@
+- [[Hb-O2 dissociation]] 
+- Less affinity to: 2,3 DPG means more affinity to Oxygen
+- More resistant to Alkali/Acid?: [[Kleihauer-Betke test]] 

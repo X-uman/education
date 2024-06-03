@@ -1,0 +1,1 @@
+- Temperature–pulse dissociation (relative bradycardia) occurs in [[typhoid fever]], [[brucellosis]], [[leptospirosis]], some drug-induced fevers, and factitious fever.

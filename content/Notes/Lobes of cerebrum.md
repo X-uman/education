@@ -1,0 +1,5 @@
+![[Pasted image 20230730174527.png]]
+![[Pasted image 20230730174304.png]]
+![[Pasted image 20230730174655.png]]
+![[Pasted image 20230730174833.png]]
+[[Brain homonuculus]] 

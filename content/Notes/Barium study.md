@@ -1,0 +1,22 @@
+- Contraindications
+	- [[Obstruction]]
+	- [[Perforations]]
+	- [[Inflammation]] 
+	- [[Peptic ulcer disease]] perforation
+- Indications
+	- Contraindicated [[Colonoscopy]] in Stable vitals 
+	- [[Esophageal perforation]] ?
+
+- Barium Swallow for esophagus
+- Modified barium Swallow
+	- Real-time contrast-enhanced imaging of the mechanism of swallowing. 
+	- It is performed during the evaluation of suspected oropharyngeal dysphagia and may help ascertain aspiration risk.
+- Barium follow-through
+	- Allow it to go to small intestine
+	- Image every 30 min 
+- Barium enema 
+	- Single contrast: For large abnormalities
+		- [[obstructions]] 
+		- [[Colostomy]] 
+	- Double contrast: More detailed view of [[Notes/Strictures|Strictures]], [[Diverticulum]], mucosa and Inflammation
+		- Preferred in high risk patients with red flags

@@ -1,0 +1,4 @@
+- Purge [[Functional Residual capacity]] of Nitrogen and replace with Oxygen to get extra time before Anesthesia
+- Duration of apnea without desaturation increases if ventilation following anesthetic induction is delayed
+- Conditions that increase Oxygen Demand like Sepsis, Pregnancy and decrease FRC like Morbid obesity, Ascites reduce duration of Apneic period
+- Oxygen insufflation into pharynx can draw it into lungs by negative pressure from Oxygen entering the blood being faster than CO2 leaving the blood 

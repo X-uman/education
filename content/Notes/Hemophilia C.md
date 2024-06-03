@@ -1,0 +1,3 @@
+- an increased frequency in individuals of Ashkenazi and Iraqi Jewish ancestry.
+- does not typically manifest with spontaneous or deep tissue bleeding (e.g., [[hemarthrosis]])
+- present with multiple bruises and bleeding, typically in the setting of surgery or trauma

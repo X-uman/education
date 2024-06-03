@@ -1,0 +1,5 @@
+- [[Vasculitis]] 
+- [[IBD]] 
+- [[Gastrointestinal Tuberculosis]] 
+- [[Actinomycosis]] 
+- [[Diverticulitis]] 

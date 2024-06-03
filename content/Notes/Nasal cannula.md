@@ -1,0 +1,2 @@
+- Useful in [[COPD]] 
+- Air jet causes discomfort and crusting

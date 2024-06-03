@@ -1,0 +1,19 @@
+- A: Auditory hallucination
+- B: Broadcasting thoughts
+- C: Controlled phenomena (Somatic passivity)
+- D: delusion 
+
+- 3 thought phenomenon
+	- Thought withdrawal
+	- Thought insertion 
+	- Thought broadcasting
+- 3 made phenomenon 
+	- Made volition
+	- Made affect
+	- Made impulse or 
+- 3 auditory [[Hallucinations]] 
+	- Voices arguing or discussing
+	- Running commentary 
+	- Thought echo 
+- Delusional perception [[delusions]] 
+- [[Somatic passivity]] 

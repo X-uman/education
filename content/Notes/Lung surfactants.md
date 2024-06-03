@@ -1,0 +1,9 @@
+- Pulmonary surfactant is a mixture of phospholipids and proteins produced by lamellar bodies of type II alveolar cells. These [[phospholipids]] reduce alveolar [[surface tension]], preventing the alveoli from collapsing.
+- Most important component Saturated phosphatidyl choline: **dipalmitoyl phosphatidyl choline** s
+	- Phosphatidyl glycerol
+	- Cholesterol
+	- Surfactant proteins: A, **B**, C, D
+- Surfactant deficiency is most likely to occur in preterm infants, because:
+   - Surfactant production begins at approximately 20 weeks gestation.
+   - Distribution throughout the lungs begins at 28-32 weeks' gestation and does not reach sufficient concentration until 35 weeks gestation.
+- [[surface tension]] 

@@ -1,0 +1,2 @@
+- Active disease is associated with an increased risk of preterm birth and low birth weight.
+- Patients who wish to conceive should be on appropriate pharmacological therapy to maintain disease remission.

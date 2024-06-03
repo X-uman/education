@@ -1,0 +1,2 @@
+- Crede's method: [[Uterine inversion]] 
+- [[Placenta accreta spectrum]]: Fragments removed using [[Ovum forceps]] 

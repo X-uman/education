@@ -1,0 +1,1 @@
+Physiologic O2 saturation in neonates is around 90%. A saturation of 100% is considered toxic for neonates!

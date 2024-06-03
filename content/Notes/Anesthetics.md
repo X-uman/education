@@ -1,0 +1,13 @@
+- Snow: [[Cholera]] and [[Chloroform]]
+- [[Guedel airway]]
+- [[Magill's forceps]]
+- [[Supraglottic airway]]
+- [[I gel]] 
+- [[Skeletal Muscle relaxants]]
+- [[Intravenous regional anaesthesia]]
+- [[Intravenous induction agents]]
+- Anesthetic agents which produces pain on Injection due to Soyabean and egg lecithin
+	- [[Propofol]]
+	- [[Etomidate]]
+	- [[Curare relaxants]]
+	- Thiopentone

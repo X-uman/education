@@ -1,0 +1,12 @@
+Hello there, I'm a medical student from Nepal, a beautiful, but small & underdeveloped country in Asia, and with utmost humility I present to you the reason I'm applying for UPTODATE donation.
+
+I come from a modest economic background, with a widowed mother being the breadwinner and a brother who has visual and mental impairments since birth. When I was 8 years old, my father suddenly passed away due to an accident in his job. Since then, my mother has been working from 9am till 4pm in other people's errands so that I can pursue my educational goals. She takes on any job she can find to put food on our tables. My brother also needs support for his day to day activities. My mother's eyes look weary when she returns from her work and still she sacrifices so much for us.
+
+Despite the economic constraints, I have always been deeply committed to my education and personal development. I have studied at night with a kerosene lantern when there used to be no electrical connection in my house. I've been a person who used to search books in a waste dump, take it home and read, even if the subject matter was of no value to me. I'm the type of person who had history of difficult but inspiring past, and uncertain present and a open road in front of me.
+
+Through hard work and determination, I have managed to pursue my educational goals, often through academic excellence, which won me scholarships, few financial aids, both from government as well as private institutions. They have
+
+Being a medical student, your donation presents a unique opportunity for me to address my educational and professional goals more effectively. If awarded this donation, I envision the following ways in which it would contribute to my mission of improving healthcare in my resource-limited home country:
+	    - **Education and Training**: The financial support provided by this scholarship will enable me to pursue a quality education in the field of healthcare. Equipped with a solid educational foundation, I will be better prepared to serve my community and country effectively.
+	    - **Skills Development**: I plan to acquire valuable skills and knowledge that can be directly applied to addressing healthcare challenges in Nepal.
+	    - **Community Engagement**: Armed with a solid education, I aspire to engage in community-based healthcare initiatives. This scholarship will empower me to play a more active role in improving healthcare access and quality, especially in underserved areas.

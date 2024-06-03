@@ -1,0 +1,1 @@
+![[indirect-pulp-cap.jpg]]

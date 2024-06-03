@@ -1,0 +1,2 @@
+- Acetyl group can come from:
+- CoA is made up of [[Pantothenic group]] and 

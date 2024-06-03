@@ -1,0 +1,8 @@
+![[Pasted image 20231001164716.png]]
+prostate mainly drains through 3 sets of lymphatics: 1) the main and important set of lymphatics starts from the superolateral angle of the prostate and courses along the lateral pelvic wall to drain into the internal iliac lymph nodes, 2) some lymphatics drain into the lymph nodes in the presacral area and 3) in 45 per cent of the patients lymphatics from the apex of the prostate travel along the course of the internal pudendal vessels to the internal iliac lymph nodes. From the internal iliac lymph nodes the drainage is to the common iliac lymph nodes and, finally, to the lumbar lymph nodes. Each lateral lobe of the prostate drains mainly into the ipsilateral group of lymph nodes with little crossover of lymphatics to the opposite side
+
+The prostate receives sympathetic, parasympathetic and sensory innervation from the **inferior hypogastric plexus**. The smooth muscle of the prostate gland is innervated by sympathetic fibres, which activate during ejaculation.
+
+The prostate is flanked by the two **neurovascular bundles** that travel through the pelvic floor towards the penis, supplying it with nerve fibres and blood vessels for the corpora cavernosa. The integrity of these bundles is critical for normal erection.
+
+During surgery for prostate cancer **(radical prostatectomy)**, damage is often inevitable to one or both of these bundles, resulting in impairment of erectile function. Special nerve-sparing techniques may prevent extensive damage to these bundles, thus allowing for post-operative potency.

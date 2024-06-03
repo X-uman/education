@@ -1,0 +1,4 @@
+- Remove tumor completely
+- Resection of adequate margin: Hemicoletomy
+- Removal of surrounding tissue and lymph nodes for assessment of metastasis
+- 

@@ -1,0 +1,3 @@
+- [[Hoover sign]]  seen in a patient? 
+- A depression of the thoracic outlet
+- Caused by muscles pulling along the costal insertion of the diaphragm

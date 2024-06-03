@@ -1,0 +1,1 @@
+ - lowers Endothelin ET-1 concentrations.

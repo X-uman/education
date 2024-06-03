@@ -1,0 +1,7 @@
+- [[Flag sign]]
+- Kinky hair in [[Menkes disease]]
+- Low hairline in [[Turner Syndrome]] 
+- Low hairline in front in [[Hypothyroidism]], [[Hurler syndrome]] and [[Cornelia de Lange syndrome]] 
+- White forelock
+- 
+- Meeting brows

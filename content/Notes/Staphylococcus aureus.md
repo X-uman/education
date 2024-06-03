@@ -1,0 +1,12 @@
+- Most infections are suppurative and localized
+- Most strains are now B-lactamase producers
+- But many remain sensitive to Flucloxacillin, vancomycin, Aminoglycosides and some cephalosporins 
+- that elevated temperature, C-reactive protein, and absolute neutrophil counts were copredictors of MRSA [[osteomyelitis]] 
+- Admission, reduce fever, antibiotics like Penicillin G or Ceftriaxone for 6-8 weeks
+- Staphylococcal pneumonia: Penicillin G or Ceftriaxone for 6 weeks
+	- Disseminates into [[Pericarditis]], Joints, Liver, Brain, bone
+- There are several novel and innovative antibiotics becoming available that have high activity against resistant strains. Some have the advantage of good oral activity ([[linezolid]]), some have a wide spectrum ([[teicoplanin]]), some have good activity in bacteraemia ([[daptomycin]]) but all are relatively expensive, and some have side effects involving marrow, hepatic and renal toxicity
+#### Drug regimen
+- Methicillin-susceptible staphylococci (e.g., MSSA): anti-staphylococcal beta-lactams (e.g., nafcillin, oxacillin) 
+- [[MRSA]]: vancomycin, Linezolid
+- Prosthetic valve endocarditis (≤ 1 year after placement): add gentamicin PLUS rifampin to regimen. 

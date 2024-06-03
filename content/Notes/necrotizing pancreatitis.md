@@ -1,0 +1,12 @@
+Markers of infected necrotic material
+- [[Procalcitonin]] 
+- [[Interleukin-6]]: predictor of [[Multiorgan dysfunction]] 
+- Initially necrosis
+- Can be infected: [[Abscess]]: Air-fluid level
+- Confirm infection if suspected
+	- Tachycardia, fever, Very High WBC, High fever
+- Give Broad spectrum antibiotics
+- Debridement of necrosis
+	- Laparoscopic
+	- Endoscopic
+	- [[VARD]]: 

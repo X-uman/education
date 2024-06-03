@@ -1,0 +1,3 @@
+- Recalibration cannot be performed unless the transducer is removed from the patient, zeroed, and then reinserted. 
+- Zero drift then occurs over time, which will lead to an erroneous ICP reading
+- Less complications: intraparenchymal are becoming more popular because they are easy, less complications

@@ -1,0 +1,14 @@
+- Receptors: [[Substantia gelatinosa]] of [[Spinal cord]] 
+- Drugs:
+	- Morphine
+	- Fentanyl
+	- Ramifentanyl: Metabolized by Ester hydrolysis, Short acting (6min), Not used conjunction in [[Central Neuraxial Block]] because it produces [[Focal neurological deficits]] 
+	- Sufentanyl 
+- ADRS:
+	- Bradycardia, so used in [[CABG]] 
+	- Morphine: Vasodilation and flushing, avoid in [[Hypovolemic shock]]
+	- Meperidine: [[Atropine]] like action, Tachycardia 
+	- Opioid induced spasm of [[sphincter of Oddi]] and pain: Give [[Naloxone]] 
+![[Pasted image 20240218132542.png]]
+---
+- [[Opioids overdose]] 

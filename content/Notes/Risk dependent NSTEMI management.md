@@ -1,0 +1,12 @@
+---
+edited: 2024-03-02
+tags:
+---
+| Risk Group   | Revascularization Strategy           | Criteria                                                                                                                                                                                                                                                                                                                                           |
+| ------------ | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Very high    | Urgent revascularization (< 2 hours) | - Hemodynamic instability <br> - Life-threatening arrhythmias (e.g., ventricular fibrillation or sustained ventricular tachycardia) <br> - Refractory ischemic pain despite adequate medical treatment <br> - Acute heart failure <br> - Mechanical complications (e.g., new/aggravated mitral regurgitation) <br> - STEMI-equivalent ECG findings |
+| High         | Early invasive strategy (< 24 hours) | - None of the criteria above <br> - [[GRACE score]] > 140 <br> - Dynamic ST or T-wave changes <br> - Dynamic troponin changes (e.g., ≥ 20% or ≥ 3 standard deviations)                                                                                                                                                                             |
+| Intermediate | Delayed invasive (24–72 hours)       | - None of the criteria above <br> - GRACE score 109–140 <br> - TIMI score ≥ 2 <br> - Diabetes mellitus <br> - GFR < 60 mL/min/1.73 m2 <br> - LVEF < 0.40 <br> - Prior PCI ≤ 6 months <br> - Prior CABG <br> - Postinfarction angina                                                                                                                |
+| Low          | Ischemia-guided                      | - None of the criteria above <br> - GRACE score < 109 <br> - TIMI score 0 or 1 <br> - Individual decision based on patient and physician preferences                                                                                                                                                                                               |
+
+---

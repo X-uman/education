@@ -1,0 +1,4 @@
+- Isoniazid
+- Rifampicin
+- Ethambutol
+- Pyranzinamide

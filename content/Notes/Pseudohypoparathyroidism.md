@@ -1,0 +1,4 @@
+- Impaired bone growth due to [[Parathyroid hormone]] resistance
+- Presentation
+	- Round face, short neck, obesity, Brachydactyly
+- Blomstrand lethal chondrodysplasia (BLC) is a neonatal osteosclerotic dysplasia characterized by advanced endochondral bone maturation, very short limbs, dwarfism and prenatal lethality.

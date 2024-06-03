@@ -1,0 +1,2 @@
+- Hair: trichbezoar
+- Plant fiber: Phytobezoar

@@ -1,0 +1,3 @@
+- Simple hysterectomy: removal of the uterus and cervix; vagina and parametrium are preserved
+- Modified radical hysterectomy: en bloc removal of the uterus, cervix, upper ¼ of the vagina, and the parametrium
+- Radical hysterectomy: en bloc removal of uterus, cervix, upper ⅓ to upper ½ of the vagina, the parametrium and, if needed, resection of involved aspects of the adjacent organ

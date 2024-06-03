@@ -1,0 +1,5 @@
+- [[Atherosclerosis]]
+- [[Thrombosis]]
+- [[Arterial embolism]]
+- [[Vasculitis]] 
+- [[Cardiovascular risk factors]] 

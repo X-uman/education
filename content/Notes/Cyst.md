@@ -1,0 +1,4 @@
+- Well defined margin
+- Resorption of adjacent structure
+- Content
+- [[Treatment of cyst]]

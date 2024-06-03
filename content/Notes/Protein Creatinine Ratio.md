@@ -1,0 +1,4 @@
+- Protein:creatinine ratios that are below 130 to 150 mg/g, that is, 0.13 to 0.15, indicate a low likelihood of proteinuria exceeding 300 mg/day. 
+- Midrange ratios, that is, 300 mg/g or 0.3 have poor sensitivity and specificity. 
+- Stout and colleagues (2013) found that values < 0.08 or > 1.19 had negative- or positive-predictive values of 86 and 96 percent, respectively. 
+- At this time, most recommend that with midrange ratio values, 24-hour protein excretion should be quantified.

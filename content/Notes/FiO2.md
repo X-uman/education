@@ -1,0 +1,1 @@
+- resultant FiO2 = (O2 Flow are + 0.21 x Entrained air)/Minute ventilation 

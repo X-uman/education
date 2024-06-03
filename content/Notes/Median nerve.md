@@ -1,0 +1,14 @@
+---
+edited: 2024-03-02
+tags:
+---
+
+| Clinical Features of Median Nerve Lesions                                                                                                                    | Motor Deficit                                                                                                                                                                      | Sensory Deficit                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| **Location of Lesion**                                                                                                                                       |                                                                                                                                                                                    |                                                         |
+| Proximal (Above Anterior Interosseous Nerve Origin)                                                                                                          | - Hand of benediction: inability to flex thumb, index, and middle fingers <br> - Impaired wrist pronation and flexion <br> - Thenar muscle atrophy (chronic)                       | Thumb, index, middle finger, radial side of ring finger |
+| Distal (Affecting Anterior Interosseous Nerve) supplies: pronator quadratus, flexor pollicis longus, <br> lateral portion of the flexor digitorum profundus. | - Loss of flexion in distal joints of thumb and index finger <br> - Pinch sign <br> - Anterior interosseous nerve syndrome: inability to pinch small objects or form the "OK sign" | None                                                    |
+| Distal (Below Anterior Interosseous Nerve Origin)                                                                                                            | - Median claw: permanent flexion of index and middle fingers <br> - Ape hand: inability to oppose and abduct thumb <br> - Palmar cutaneous nerve involvement: sensory loss in palm | Thumb, index, middle finger, radial side of ring finger |
+| Distal (Within Wrist)                                                                                                                                        | - Carpal tunnel syndrome: mild impairment of flexion in index finger, long finger, and thumb                                                                                       | Thumb, index, middle finger, radial side of ring finger |
+
+---

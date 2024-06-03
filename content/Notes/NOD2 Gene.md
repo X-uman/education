@@ -1,0 +1,3 @@
+- An intracellular protein and key part of the [[NK-kB pathway]] that possess a leucine rich segment that detects muramyl dipeptide, a bacterial molecular marker. 
+- Mutations in NOD2 are implicated in several autoinflammatory diseases such as [[sarcoidosis]] and Crohn disease.
+- Crohn disease associated with NOD2 variants show antibodies against bacterial protein flagellin

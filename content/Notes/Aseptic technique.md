@@ -1,0 +1,2 @@
+- Do in any procedure or process occurring in the body like labor
+- Clean yourself, patient, instruments and field

@@ -1,0 +1,12 @@
+- Cervix
+	- Dilatation
+	- Effacement
+- [[rupture of membranes]] 
+- [[Notes/Amniotic fluid]] if membrane ruptured
+- Rule out [[Umbilical cord prolapse]] 
+- [[Presenting part]] and [[Fetal position]]
+- [[head molding]] 
+- [[Fetal station]] every 3-4 h  
+- [[Pelvis assessment]] 
+- [[Partograph]] 
+- [[Fetal surveillance]] 

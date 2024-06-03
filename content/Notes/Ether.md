@@ -1,0 +1,6 @@
+- Highly blood soluble
+- Slow induction, slow recovery: [[Stages of Anesthesia]]
+- High potency: Good analgesia, marked muscle relaxation
+- Explosive: not used with [[Energy sources in operating room]]
+- Causes [[Parasympathetic system]] activation: [[Atropine]] as premedication 
+- [[Post-anesthesia nausea and vomiting]] marked 

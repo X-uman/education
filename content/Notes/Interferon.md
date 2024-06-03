@@ -1,0 +1,3 @@
+- [[α-interferon]]: Leukocytes: Anti-viral effect
+- [[IFN-β]]: Fibroblasts: Immune modulation: [[Multiple Sclerosis]]
+- [[IFN-gamma]] 

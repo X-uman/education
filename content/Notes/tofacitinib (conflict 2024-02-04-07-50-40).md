@@ -1,0 +1,2 @@
+- **By inhibiting JAKs, tofacitinib prevents the phosphorylation and activation of STATs**. The [[JAK-STAT signalling pathway]] is involved in the transcription of cells involved in hematopoiesis, and immune cell function. Tofacitinib works therapeutically by inhibiting the JAK-STAT pathway to decrease the inflammatory response.
+- Tofacitinib, sold under the brand Xeljanz among others, is a medication used to treat rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, polyarticular course juvenile idiopathic arthritis, and ulcerative colitis

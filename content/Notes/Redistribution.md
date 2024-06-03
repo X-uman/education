@@ -1,0 +1,3 @@
+- redistribution from the highly perfused CNS into other (more slowly perfused) body tissues, including fat
+- repeated intravenous doses lead to prolonged anesthesia because fatty tissues act as a long-term storage reservoir
+- fat stores accumulate thiopental in concentrations 6 to 12 times greater than the plasma concentration, and then release the drug slowly to cause prolonged anesthesia

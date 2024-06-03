@@ -1,0 +1,5 @@
+- Localized [[Paralytic ileus]] occurring near a focus of inflammation
+- Examples
+	- Pancreatitis
+	- [[Notes/Appendicitis|Appendicitis]]
+	- [[Cholecystitis]]

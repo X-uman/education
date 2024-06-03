@@ -1,0 +1,2 @@
+- Celiac trunk anatomy: https://youtu.be/IeIQ2zfO6dw?si=0p15ZsRhtnK2zxMu
+- 

@@ -1,0 +1,1 @@
+- Metabolized by [[Pseudocholinesterase]] 

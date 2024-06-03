@@ -1,0 +1,3 @@
+- [[Growth hormone]]: Laron syndrome
+- [[Parathyroid hormone]]: [[Pseudohypoparathyroidism]]
+- 

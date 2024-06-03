@@ -1,0 +1,13 @@
+- Inhibits polymerization of microtubules by binding to tubulin and inhibits mitosis of immune cells
+- ADR: 
+	- [[Diarrhea]] 
+	- [[Rhabdomyolysis]] 
+	- [[Myopathy]]
+	- [[Polyneuropathy]]
+	- Cardiac toxicity, [[Arrhythmias]]
+	- [[Nephrotoxic agents]]
+	- [[Bone marrow suppression]] 
+	- Fatigue, headache 
+- Dose: 0.6 mg TDS 
+- #cautions in Renal insufficiency
+- Colchicine is unlikely to be effective when initiated > 24–36 hours after symptom onset. Colchicine is preferable in patients who cannot tolerate NSAIDs or systemic glucocorticoids (e.g., patients with gastrointestinal ulcers)

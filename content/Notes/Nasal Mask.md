@@ -1,0 +1,2 @@
+- No air jet, more comfortable
+- Sores in long term use 

@@ -1,0 +1,7 @@
+- Recombinant Uricase
+- Dissolves Uric acid, converts it into Allantoin 
+- Used in refractory disease
+- ADRs: Infusion reactions, [[Anaphylaxis]] 
+- Contraindications 
+	- [[G6PD Deficiency Anemia]] (Hydrogen peroxide develops during the conversion of uric acid to allantoin → hemolytic crisis )
+	- with other uric acid lowering drugs as it mask rise in Uric acid level monitoring 
