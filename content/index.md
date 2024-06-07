@@ -1,19 +1,54 @@
-### Contents
+# Medical Specialties
+
+## Contents
+
+### ❤️ Cardiology
 - [[Cardiology]]
+
+### 🌬️ Pulmonology
 - [[Pulmonology]]
-- [[Gastrointestinal system]] 
+
+### 🍽️ Gastrointestinal System
+- [[Gastrointestinal system]]
+
+### 🍎 Hepatopancreatic System
 - [[Hepatopancreatic system]]
+
+### 💧 Nephrology
 - [[Nephrology]]
-- [[Notes/Surgery|Surgery]] 
-- [[Neurology]] 
-- [[Notes/Radiology|Radiology]] 
-- [[Vascular surgery]] 
-- [[Notes/Orthopedics|Orthopedics]] 
-- [[Notes/Dentistry|Dentistry]] 
-- [[Anesthesiology]] 
-- [[Pediatrics]] 
-- [[Obstetrics and gynecology]] 
-- [[Breast]] 
-- [[Notes/Radiology|Radiology]] 
+
+### 🛠️ Surgery
+- [[Notes/Surgery|Surgery]]
+
+### 🧠 Neurology
+- [[Neurology]]
+
+### 🩻 Radiology
+- [[Notes/Radiology|Radiology]]
+
+### 🩸 Vascular Surgery
+- [[Vascular surgery]]
+
+### 🦴 Orthopedics
+- [[Notes/Orthopedics|Orthopedics]]
+
+### 🦷 Dentistry
 - [[Notes/Dentistry|Dentistry]]
 
+### 🛌 Anesthesiology
+- [[Anesthesiology]]
+
+### 👶 Pediatrics
+- [[Pediatrics]]
+
+### 👩‍⚕️ Obstetrics and Gynecology
+- [[Obstetrics and gynecology]]
+
+### 🎀 Breast
+- [[Breast]]
+
+### 🩻 Radiology
+- [[Notes/Radiology|Radiology]]
+
+### 🦷 Dentistry
+- [[Notes/Dentistry|Dentistry]]
