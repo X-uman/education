@@ -1,4 +1,4 @@
-$pageWidth: 900px; // Increased from 750px to 900px
+$pageWidth: 750px;
 $mobileBreakpoint: 600px;
 $tabletBreakpoint: 1000px;
 $sidePanelWidth: 380px;
@@ -7,5 +7,3 @@ $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
 $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
-$baseFontSize: 18px; // New variable for base font size
-
